@@ -1,13 +1,13 @@
-I"<h2 id="group-members">Group Members</h2>
+I"ï&<h2 id="group-members">Group Members</h2>
 
 <!-- Jump to [PhD students](#phd), [Master students](#masters) -->
 
 <div class="row">
 
   <div class="col-sm-6 clearfix">
-    <p><img src="http://localhost:4000/images/teampic/photoML.jpg" class="img-responsive" width="25%" style="float: left" /></p>
-    <h4><a href="https://mlpacheco.github.io">Maria Leonor Pacheco</a></h4>
-    <p><i>Assistant Professor</i></p>
+    <p><img src="http://localhost:4000/images/teampic/fengzhao.jpg" class="img-responsive" width="25%" style="float: left" /></p>
+    <h4><a href="">Feng Zhao</a></h4>
+    <p><i>Professor</i></p>
     <ul style="overflow: hidden">
 
   </ul>
@@ -125,6 +125,64 @@
   </ul>
   </div>
 
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/Syed Muhammad Israr.jpg" class="img-responsive" width="25%" style="float: left;" /></p>
+    <h4><a href="">Syed Muhammad Israr</a></h4>
+    <p>Joining Fall 2020</p>
+    <p></p>
+    <ul style="overflow: hidden">
+
+  </ul>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/Tahir Hussain.jpg" class="img-responsive" width="25%" style="float: left;" /></p>
+    <h4><a href="">Tahir Hussain</a></h4>
+    <p>Joining Fall 2020</p>
+    <p></p>
+    <ul style="overflow: hidden">
+
+  </ul>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/zhihuawu.jpg" class="img-responsive" width="25%" style="float: left;" /></p>
+    <h4><a href="">Zhihua Wu</a></h4>
+    <p>Joining Fall 2020</p>
+    <p></p>
+    <ul style="overflow: hidden">
+
+  </ul>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/Rana Muhammad Usman.jpg" class="img-responsive" width="25%" style="float: left;" /></p>
+    <h4><a href="">Rana Muhammad Usman</a></h4>
+    <p>Joining Fall 2020</p>
+    <p></p>
+    <ul style="overflow: hidden">
+
+  </ul>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/Rehan Saeed.jpg" class="img-responsive" width="25%" style="float: left;" /></p>
+    <h4><a href="">Rehan Saeed</a></h4>
+    <p>Joining Fall 2020</p>
+    <p></p>
+    <ul style="overflow: hidden">
+
+  </ul>
+  </div>
+
 </div>
 
 <h3 id="master-students">Master Students</h3>
@@ -142,7 +200,7 @@
   </div>
 
   <div class="col-sm-6 clearfix">
-    <p><img src="http://localhost:4000/images/teampic/guangkaixu.jpg" class="img-responsive" width="25%" style="float: left;" /></p>
+    <p><img src="http://localhost:4000/images/teampic/zhaoqingzhu.jpg" class="img-responsive" width="25%" style="float: left;" /></p>
     <h4><a href="">Zhaoqing Zhu</a></h4>
     <p>Joining Fall 2020</p>
     <p></p>
@@ -190,8 +248,56 @@
   </div>
 
   <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/shuowang.jpg" class="img-responsive" width="25%" style="float: left;" /></p>
+    <h4><a href="">Shuo Wang</a></h4>
+    <p>Joining Fall 2021</p>
+    <p></p>
+    <ul style="overflow: hidden">
+
+  </ul>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/jiahaochang.jpg" class="img-responsive" width="25%" style="float: left;" /></p>
+    <h4><a href="">Jiahao Chang</a></h4>
+    <p>Joining Fall 2021</p>
+    <p></p>
+    <ul style="overflow: hidden">
+
+  </ul>
+  </div>
+
+  <div class="col-sm-6 clearfix">
     <p><img src="http://localhost:4000/images/teampic/bingli.jpg" class="img-responsive" width="25%" style="float: left;" /></p>
     <h4><a href="">Bing Li</a></h4>
+    <p>Joining Fall 2021</p>
+    <p></p>
+    <ul style="overflow: hidden">
+
+  </ul>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/huadongzhang.jpg" class="img-responsive" width="25%" style="float: left;" /></p>
+    <h4><a href="">Huadong Zhang</a></h4>
+    <p>Joining Fall 2021</p>
+    <p></p>
+    <ul style="overflow: hidden">
+
+  </ul>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/jinghaozhang.jpg" class="img-responsive" width="25%" style="float: left;" /></p>
+    <h4><a href="">Jinghao Zhang</a></h4>
     <p>Joining Fall 2021</p>
     <p></p>
     <ul style="overflow: hidden">
@@ -214,8 +320,56 @@
   </div>
 
   <div class="col-sm-6 clearfix">
-    <p><img src="http://localhost:4000/images/teampic/hongzhigao.jpg" class="img-responsive" width="25%" style="float: left;" /></p>
-    <h4><a href="">Hongzhi Gao</a></h4>
+    <p><img src="http://localhost:4000/images/teampic/zhengchen.jpg" class="img-responsive" width="25%" style="float: left;" /></p>
+    <h4><a href="">Zheng Chen</a></h4>
+    <p>Joining Fall 2022</p>
+    <p></p>
+    <ul style="overflow: hidden">
+
+  </ul>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/yuhanglong.jpg" class="img-responsive" width="25%" style="float: left;" /></p>
+    <h4><a href="">Yuhang Long</a></h4>
+    <p>Joining Fall 2022</p>
+    <p></p>
+    <ul style="overflow: hidden">
+
+  </ul>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/yongtingzhang.jpg" class="img-responsive" width="25%" style="float: left;" /></p>
+    <h4><a href="">Yongting Zhang</a></h4>
+    <p>Joining Fall 2022</p>
+    <p></p>
+    <ul style="overflow: hidden">
+
+  </ul>
+  </div>
+
+</div>
+
+<div class="row">
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/weiyu.jpg" class="img-responsive" width="25%" style="float: left;" /></p>
+    <h4><a href="">Wei Yu</a></h4>
+    <p>Joining Fall 2022</p>
+    <p></p>
+    <ul style="overflow: hidden">
+
+  </ul>
+  </div>
+
+  <div class="col-sm-6 clearfix">
+    <p><img src="http://localhost:4000/images/teampic/kaiwenzheng.jpg" class="img-responsive" width="25%" style="float: left;" /></p>
+    <h4><a href="">Kaiwen Zheng</a></h4>
     <p>Joining Fall 2022</p>
     <p></p>
     <ul style="overflow: hidden">
