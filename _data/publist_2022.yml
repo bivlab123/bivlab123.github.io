@@ -1,0 +1,431 @@
+- title: "Modality-Aware Feature Integration for Pan-Sharpening"
+  authors: Man Zhou, Jie Huang, Feng Zhao, Danfeng Hong
+  venue: "IEEE Transactions on Geoscience and Remote Sensing (TGRS)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2022
+
+- title: "RelCLIP: Adapting Language-Image Pretraining for Visual Relationship Detection via Relational Contrastive Learning"
+  authors: Yi Zhu, Zhaoqing Zhu, Bingqian Lin, Xiaodan Liang, Feng Zhao, Jianzhuang Liu
+  venue: "The 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2022
+
+- title: "Deep Fourier Up-Sampling"
+  authors: Man Zhou, Hu Yu, Jie Huang, Feng Zhao, Jinwei Gu, Chen Change Loy, Deyu Meng, Chongyi Li
+  venue: "Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2022
+
+- title: "Panchromatic and Multispectral Image Fusion via Alternating Reverse Filtering Network"
+  authors: Keyu Yan, Man Zhou, Jie Huang, Feng Zhao, Chengjun Xie, Chongyi Li, Danfeng Hong
+  venue: "Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2022
+
+- title: "Roadblocks for Temporarily Disabling Shortcuts and Learning New Knowledge"
+  authors: Hongjing Niu, Hanting Li, Feng Zhao, Bin Li
+  venue: "Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2022
+
+- title: "Smart Calibration between RGB-D and Thermal Cameras for ROI Detection and Tracking in Physiological Monitoring"
+  authors: Feng Zhao, Serhan Cosar, Nicola Bellotton, Shigang Yue
+  venue: "Encyclopedia of Computer Graphics and Games"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2022
+
+- title: "Effective Pan-sharpening by Multi-Scale Invertible Neural Network and Heterogeneous Task Distilling"
+  authors: Man Zhou, Jie Huang, Xueyang Fu, Feng Zhao, Danfeng Hong
+  venue: "IEEE Transactions on Geoscience and Remote Sensing (TGRS)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2022
+
+- title: "CNSNet: A Cleanness-Navigated-Shadow Network for Shadow Removal"
+  authors: Qianhao Yu, Naishan Zheng, Jie Huang, Feng Zhao
+  venue: "ECCV Workshop on Advances in Image Manipulation (ECCVW)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2022
+
+- title: "Whole-Body Control of an Autonomous Mobile Manipulator Using Model Predictive Control and Adaptive Fuzzy Technique"
+  authors: Wang Yuan, Yonghua Liu, Chunyi Su, Feng Zhao
+  venue: "IEEE Transactions on Fuzzy Systems (TFS)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2022
+
+- title: "Unsupervised Underexposed Image Enhancement via Self-Illuminated and Perceptual Guidance"
+  authors: Naishan Zheng, Jie Huang, Feng Zhao, Xueyang Fu, Feng Wu
+  venue: "IEEE Transactions on Multimedia (TMM)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2022
+
+- title: "Deep Fourier-based Exposure Correction Network with Spatial-Frequency Interaction"
+  authors: Jie Huang, Yajing Liu, Feng Zhao, Keyu Yan, Jinghao Zhang, Yukun Huang, Man Zhou, Zhiwei Xiong
+  venue: "European Conference on Computer Vision (ECCV, Oral)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2022
+
+- title: "Spatial-Frequency Domain Information Integration for Pan-sharpening"
+  authors: Man Zhou, Jie Huang, Keyu Yan, Hu Yu, Xueyang Fu, Aiping Liu, Xian Wei, Feng Zhao
+  venue: "European Conference on Computer Vision (ECCV)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2022
+
+- title: "Deformable Feature Aggregation for Dynamic Multi-Modal 3D Object Detection"
+  authors: Zehui Chen, Zhenyu Li, Shiquan Zhang, Liangji Fang, Qinhong Jiang, Feng Zhao
+  venue: "European Conference on Computer Vision (ECCV)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2022
+
+- title: "Frequency and Spatial Dual Guidance for Image Dehazing"
+  authors: Hu Yu, Naishan Zheng, Man Zhou, Jie Huang, Feng Zhao
+  venue: "European Conference on Computer Vision (ECCV)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2022
+
+- title: "Adaptively Learning Low-high Frequency Information Integration for Pan-sharpening"
+  authors: Man Zhou, Jie Huang, Chongyi Li, Hu Yu, Keyu Yu, Naishan Zheng, Feng Zhao
+  venue: "ACM International Conference on Multimedia (ACM MM)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2022
+
+- title: "Customizing GAN Using Few-shot Sketches"
+  authors: Syed Muhammad Israr, Feng Zhao
+  venue: "ACM International Conference on Multimedia (ACM MM)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2022
+
+- title: "Enhancement by Your Aesthetic: An Intelligible Unsupervised Personalized Enhancer for Low-Light Images"
+  authors: Naishan Zheng, Jie Huang, Qi Zhu, Man Zhou, Feng Zhao, Zheng-Jun Zha
+  venue: "ACM International Conference on Multimedia (ACM MM)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2022
+
+- title: "Exposure-Consistency Representation Learning for Exposure Correction"
+  authors: Jie Huang, Man Zhou, Yajing Liu, Mingde Yao, Feng Zhao, Zhiwei Xiong
+  venue: "ACM International Conference on Multimedia (ACM MM)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2022
+
+- title: "Graph-DETR3D: Rethinking Overlapping Regions for Multi-View 3D Object Detection"
+  authors: Zehui Chen, Zhenyu Li, Shiquan Zhang, Liangji Fang, Qinhong Jiang, Feng Zhao
+  venue: "ACM International Conference on Multimedia (ACM MM)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2022
+
+- title: "Normalization-based Feature Selection and Restitution for Pan-sharpening"
+  authors: Man Zhou, Jie Huang, Keyu Yan, Gang Yang, Aiping Liu, Chongyi Li, Feng Zhao
+  venue: "ACM International Conference on Multimedia (ACM MM)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2022
+
+- title: "SIR-Former: Stereo Image Restoration Using Transformer"
+  authors: Zizheng Yang , Mingde Yao , Jie Huang , Man Zhou , Feng Zhao
+  venue: "ACM International Conference on Multimedia (ACM MM)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2022
+
+- title: "Source-Free Domain Adaptation for Real-world Image Dehazing"
+  authors: Hu Yu, Jie Huang, Yajing Liu, Qi Zhu, Man Zhou, Feng Zhao
+  venue: "ACM International Conference on Multimedia (ACM MM)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2022
+
+- title: "Structure- and Texture-Aware Learning for Low-Light Image Enhancement"
+  authors: Jinghao Zhang, Jie Huang, Mingde Yao, Man Zhou, Feng Zhao
+  venue: "ACM International Conference on Multimedia (ACM MM)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2022
+
+- title: "AutoAlign: Pixel-Instance Feature Aggregation for Multi-Modal 3D Object Detection"
+  authors: Zehui Chen, Zhenyu Li, Shiquan Zhang, Liangji Fang, Qinhong Jiang, Feng Zhao, Bolei Zhou, Hang Zhao
+  venue: "International Joint Conferences on Artificial Intelligence (IJCAI)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2022
+
+- title: "MMNet: Muscle Motion-guided Network for Micro-expression Recognition"
+  authors: Hanting Li, Mingzhe Sui, Zhaoqing Zhu, Feng Zhao
+  venue: "International Joint Conferences on Artificial Intelligence (IJCAI)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2022
+
+- title: "Bijective Mapping Network for Shadow Removal"
+  authors: Yurui Zhu, Jie Huang, Xueyang Fu, Feng Zhao, Qibin Sun, Zheng-Jun Zha
+  venue: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR, Oral)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2022
+
+- title: "Unleashing Potential of Unsupervised Pre-Training with Intra-Identity Regularization for Person Re-Identification"
+  authors: Zizheng Yang, Xin Jin, Kecheng Zheng, Feng Zhao
+  venue: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2022
+
+- title: "Exposure Normalization and Compensation for Multiple Exposure Correction"
+  authors: Jie Huang, Yajing Liu, Xueyang Fu, Man Zhou, Yang Wang, Feng Zhao, Zhiwei Xiong
+  venue: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2022
+
+- title: "Mutual Information-driven Pan-sharpening"
+  authors: Man Zhou, Keyu Yan, Jie Huang, Zihe Yang, Xueyang Fu, Feng Zhao
+  venue: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2022
+
+- title: "DAST-Net: Depth-aware spatio-temporal network for video deblurring"
+  authors: Qi Zhu, Zeyu Xiao, Jie Huang, Feng Zhao
+  venue: "IEEE International Conference on Multimedia and Expo (ICME, Oral)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2022
+
+- title: "CMANet: Curvature-aware soft mask guided attention fusion network for 2D+3D facial expression recognition"
+  authors: Zhaoqing Zhu, Mingzhe Sui, Hanting Li, Feng Zhao
+  venue: "IEEE International Conference on Multimedia and Expo (ICME, Oral)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2022
+
+- title: "Low-Light Stereo Image Enhancement"
+  authors: Jie Huang, Xueyang Fu, Zeyu Xiao, Feng Zhao, Zhiwei Xiong
+  venue: "IEEE Transactions on Multimedia (TMM)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2022
+
+- title: "Effective Pan-Sharpening With Transformer and Invertible Neural Network"
+  authors: Man Zhou, Xueyang Fu, Jie Huang, Feng Zhao, Aiping Liu, Rujing Wang
+  venue: "IEEE Transactions on Geoscience and Remote Sensing (TGRS)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2022
+
+- title: "Unsupervised Person Re-Identification Via Global-Level And Patch-Level Discriminative Feature Learning"
+  authors: Zongzhe Sun, Feng Zhao, Feng Wu
+  venue: "IEEE International Conference on Image Processing (ICIP)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2022
+
+- title: "Disentangle Your Dense Object Detector"
+  authors: Zehui Chen, Chenhongyi Yang, Qiaofei Li, Feng Zhao, Zheng-Jun Zha, Feng Wu
+  venue: "ACM International Conference on Multimedia (ACM MM, Oral)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2022
+
+- title: "FFNet-M: Feature fusion network with masks for multimodal facial expression recognition"
+  authors: Mingzhe Sui, Zhaoqing Zhu, Feng Zhao, Feng Wu
+  venue: "IEEE International Conference on Multimedia and Expo (ICME)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2022

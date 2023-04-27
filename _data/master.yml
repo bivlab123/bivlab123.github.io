@@ -1,0 +1,105 @@
+#- name:
+#  photo: rock.jpg
+#  info:
+#  email:
+#  number_educ:
+#  education1:
+#  education2:
+#  education3:
+#  education4:
+
+- name: Guangkai Xu
+  photo: guangkaixu.jpg
+  homepage: 
+  year: Joining Fall 2020
+  info:
+
+- name: Zhaoqing Zhu
+  photo: zhaoqingzhu.jpg
+  homepage: 
+  year: Joining Fall 2020
+  info:
+
+- name: Xuesong Guo
+  photo: xuesongguo.jpg
+  homepage: 
+  year: Joining Fall 2020
+  info:
+
+- name: Qianhao Yu
+  photo: qianhaoyu.jpg
+  homepage: 
+  year: Joining Fall 2021
+  info:
+
+- name: Hu Yu
+  photo: huyu.jpg
+  homepage: 
+  year: Joining Fall 2021
+  info:
+
+- name: Shuo Wang
+  photo: shuowang.jpg
+  homepage: 
+  year: Joining Fall 2021
+  info:
+
+- name: Jiahao Chang
+  photo: jiahaochang.jpg
+  homepage: 
+  year: Joining Fall 2021
+  info:
+
+- name: Bing Li
+  photo: bingli.jpg
+  homepage: 
+  year: Joining Fall 2021
+  info:
+
+- name: Huadong Zhang
+  photo: huadongzhang.jpg
+  homepage: 
+  year: Joining Fall 2021
+  info:
+
+- name: Jinghao Zhang
+  photo: jinghaozhang.jpg
+  homepage: 
+  year: Joining Fall 2021
+  info:
+
+- name: Hongzhi Gao
+  photo: hongzhigao.jpg
+  homepage: 
+  year: Joining Fall 2022
+  info:
+
+- name: Zheng Chen
+  photo: zhengchen.jpg
+  homepage: 
+  year: Joining Fall 2022
+  info:
+
+- name: Yuhang Long
+  photo: yuhanglong.jpg
+  homepage: 
+  year: Joining Fall 2022
+  info:
+
+- name: Yongting Zhang
+  photo: yongtingzhang.jpg
+  homepage: 
+  year: Joining Fall 2022
+  info:
+
+- name: Wei Yu
+  photo: weiyu.jpg
+  homepage: 
+  year: Joining Fall 2022
+  info:
+
+- name: Kaiwen Zheng
+  photo: kaiwenzheng.jpg
+  homepage: 
+  year: Joining Fall 2022
+  info:

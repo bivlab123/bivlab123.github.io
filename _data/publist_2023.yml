@@ -1,0 +1,96 @@
+- title: "Ultra-high resolution Segmentation with Ultra-rich Context: A Novel Benchmark"
+  authors: Deyi Ji, Feng Zhao, Hongtao Lu, Mingyuan Tao, Jieping Ye
+  venue: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2023
+
+- title: "Learning Sample Relationship for Exposure Correction"
+  authors: Jie Huang, Man Zhou, Jie Xiao, Kaiwen Zheng, Naishan Zheng, Feng Zhao, Zhiwei Xiong
+  venue: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2023
+
+- title: "Ingredient-oriented Multi-degradation Learning for Image Restoration"
+  authors: Jinghao Zhang, Jie Huang, Mingde Yao, Zizheng Yang, Hu Yu, Man Zhou, Feng Zhao
+  venue: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2023
+
+- title: "Visual Recognition-driven Image Restoration for Multiple Degradation with Intrinsic Semantics Recovery"
+  authors: Zizheng Yang, Jie Huang, Jiahao Chang, Man Zhou, Hu Yu, Jinghao Zhang, Feng Zhao
+  venue: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2023
+
+- title: "Towards Domain Generalization for Multi-view 3D Object Detection in Bird-Eye-View"
+  authors: Shuo Wang, Xinhai Zhao, Haiming Xu, Zehui Chen, Dameng Yu, Jiahao Chang, Zhen Yang, Feng Zhao
+  venue: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2023
+
+- title: "BEVDistill: Cross-Modal BEV Distillation for Multi-View 3D Object Detection"
+  authors: Zehui Chen, Zhenyu Li, Shiquan Zhang, Liangji Fang, Qinhong Jiang, Feng Zhao
+  venue: "The Eleventh International Conference on Learning Representations (ICLR)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2023
+
+- title: "Intensity-Aware Loss for Dynamic Facial Expression Recognition in the Wild"
+  authors: Hanting Li, Hongjing Niu, Zhaoqing Zhu, Feng Zhao
+  venue: "The Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2023
+
+- title: "Learning Semantic Degradation-Aware Guidance for Recognition-Driven Unsupervised Low-Light Image Enhancement"
+  authors: Naishan Zheng, Jie Huang, Man Zhou, Zizheng Yang, Qi Zhu, Feng Zhao
+  venue: "The Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2023
+

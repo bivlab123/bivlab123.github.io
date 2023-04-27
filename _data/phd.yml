@@ -1,0 +1,63 @@
+#- name:
+#  photo: rock.jpg
+#  info:
+#  email:
+#  number_educ:
+#  education1:
+#  education2:
+#  education3:
+#  education4:
+
+- name: Jie Huang
+  photo: jiehuang.jpg
+  homepage: 
+  year: Joining Fall 2020
+  info: 
+
+- name: Hanting Li
+  photo: hantingli.jpg
+  homepage: 
+  year: Joining Fall 2019
+  info:
+
+- name: Chunli Sun
+  photo: chunlisun.jpg
+  homepage: 
+  year: Joining Fall 2020
+  info: 
+
+- name: Hongjing Niu
+  photo: hongjingniu.jpg
+  homepage: 
+  year: Joining Fall 2019
+  info:
+  
+- name: Zehui Chen
+  photo: zehuichen.jpg
+  homepage: https://lovesnowbest.site
+  year: Joining Fall 2020
+  info:
+
+- name: Naishan Zheng
+  photo: naishanzheng.jpg
+  homepage: 
+  year: Joining Fall 2020
+  info:
+
+- name: Zizheng Yang
+  photo: zizhengyang.jpg
+  homepage: 
+  year: Joining Fall 2020
+  info:
+
+- name: Qi Zhu
+  photo: qizhu.jpg
+  homepage: 
+  year: Joining Fall 2020
+  info:
+
+- name: Deyi Ji
+  photo: deyiji.jpg
+  homepage: 
+  year: Joining Fall 2022
+  info:

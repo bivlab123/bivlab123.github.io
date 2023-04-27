@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+  <div id="homeid" class="col-sm-8">
+    <img src="{{ site.url }}{{ site.baseurl }}/images/header.jpg" class="img-responsive">
+    <h3>About Us</h3>
+	  <br>
+	  <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/other_logo_blast.png" class="img-responsive" style="width: 300px; float: right; border: 10px; margin-left: 20px;"/> -->
+	  {{ content }}
+  </div>
+  <div class="col-sm-4" id="newsid">
+     {% include news.html %}
+  </div>
+
