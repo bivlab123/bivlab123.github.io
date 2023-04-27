@@ -16,6 +16,9 @@ our daily life. To this purpose, we maintain a research agenda that balances met
 applications. Some of our current areas of interest are:
 
 - **Perception for autonoumous driving** (e.g. 2D/3D/multi-modal object detection, multi-view 3D object detection, semantic segmentation, depth estimation).
-- **Model/data compression** (e.g. knowledge distillation, domain adaptation, semi-supervised learning).
+- **Model/data compression** (e.g. knowledge distillation, domain adaptation, semi-supervised learning, data evaluation).
 - **Image quality improvement under adverse conditions** (e.g. image enhancement, image dehazing, image deblurring, multi-task degradation restoration).
 - **Algorithm designing for image reconstruction** (e.g. self-supervised learning, signal processing, optimization methods).
+- **Human Behavior Analysis** (e.g. facial expression recognition, micro-expression recognition, action recognition, multi-modal expression recognition).
+- **OOD generalization** (e.g. domain generalization, shortcut learning).
+- **Brain-inspired Intelligence Learning** (e.g. Neuron classification，Morphology analysis).
