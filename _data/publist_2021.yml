@@ -1,6 +1,6 @@
-- title: "ENRICHME: Perception and interaction of an assistive robot for the elderly at home"
-  authors: Serhan Cosar, Manuel Fernandez-Carmona, Roxana Agrigoroaie, Jordi Pages, Francois Ferland, Feng Zhao,Shigang Yue, Nicola Bellotto, Adriana Tapus
-  venue: "International Journal of Social Robotics (IJSR)"
+- title: "Unsupervised Person Re-Identification Via Global-Level And Patch-Level Discriminative Feature Learning"
+  authors: Zongzhe Sun, Feng Zhao, Feng Wu
+  venue: "IEEE International Conference on Image Processing (ICIP)"
   link:
     url: 
     display: \[Paper\]
@@ -10,9 +10,21 @@
   highlight: 0
   year: 2021
 
-- title: "Deep learning-based classification of liver cancer histopathology image using only global labels"
-  authors: Chunli Sun, Ao Xu, Dong Liu, Zhiwei Xiong, Feng Zhao, Weiping Ding
-  venue: "IEEE Journal of Biomedical and Health Informatics (JBHI)"
+- title: "Disentangle Your Dense Object Detector"
+  authors: Zehui Chen, Chenhongyi Yang, Qiaofei Li, Feng Zhao, Zheng-Jun Zha, Feng Wu
+  venue: "ACM International Conference on Multimedia (ACM MM, Oral)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2021
+
+- title: "FFNet-M: Feature fusion network with masks for multimodal facial expression recognition"
+  authors: Mingzhe Sui, Zhaoqing Zhu, Feng Zhao, Feng Wu
+  venue: "IEEE International Conference on Multimedia and Expo (ICME)"
   link:
     url: 
     display: \[Paper\]

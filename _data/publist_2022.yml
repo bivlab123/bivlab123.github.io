@@ -1,15 +1,3 @@
-- title: "Modality-Aware Feature Integration for Pan-Sharpening"
-  authors: Man Zhou, Jie Huang, Feng Zhao, Danfeng Hong
-  venue: "IEEE Transactions on Geoscience and Remote Sensing (TGRS)"
-  link:
-    url: 
-    display: \[Paper\]
-  code:
-    url: 
-    display: \[Code\]
-  highlight: 0
-  year: 2022
-
 - title: "RelCLIP: Adapting Language-Image Pretraining for Visual Relationship Detection via Relational Contrastive Learning"
   authors: Yi Zhu, Zhaoqing Zhu, Bingqian Lin, Xiaodan Liang, Feng Zhao, Jianzhuang Liu
   venue: "The 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP)"
@@ -70,18 +58,6 @@
   highlight: 0
   year: 2022
 
-- title: "Effective Pan-sharpening by Multi-Scale Invertible Neural Network and Heterogeneous Task Distilling"
-  authors: Man Zhou, Jie Huang, Xueyang Fu, Feng Zhao, Danfeng Hong
-  venue: "IEEE Transactions on Geoscience and Remote Sensing (TGRS)"
-  link:
-    url: 
-    display: \[Paper\]
-  code:
-    url: 
-    display: \[Code\]
-  highlight: 0
-  year: 2022
-
 - title: "CNSNet: A Cleanness-Navigated-Shadow Network for Shadow Removal"
   authors: Qianhao Yu, Naishan Zheng, Jie Huang, Feng Zhao
   venue: "ECCV Workshop on Advances in Image Manipulation (ECCVW)"
@@ -94,29 +70,7 @@
   highlight: 0
   year: 2022
 
-- title: "Whole-Body Control of an Autonomous Mobile Manipulator Using Model Predictive Control and Adaptive Fuzzy Technique"
-  authors: Wang Yuan, Yonghua Liu, Chunyi Su, Feng Zhao
-  venue: "IEEE Transactions on Fuzzy Systems (TFS)"
-  link:
-    url: 
-    display: \[Paper\]
-  code:
-    url: 
-    display: \[Code\]
-  highlight: 0
-  year: 2022
 
-- title: "Unsupervised Underexposed Image Enhancement via Self-Illuminated and Perceptual Guidance"
-  authors: Naishan Zheng, Jie Huang, Feng Zhao, Xueyang Fu, Feng Wu
-  venue: "IEEE Transactions on Multimedia (TMM)"
-  link:
-    url: 
-    display: \[Paper\]
-  code:
-    url: 
-    display: \[Code\]
-  highlight: 0
-  year: 2022
 
 - title: "Deep Fourier-based Exposure Correction Network with Spatial-Frequency Interaction"
   authors: Jie Huang, Yajing Liu, Feng Zhao, Keyu Yan, Jinghao Zhang, Yukun Huang, Man Zhou, Zhiwei Xiong
@@ -361,66 +315,6 @@
 - title: "CMANet: Curvature-aware soft mask guided attention fusion network for 2D+3D facial expression recognition"
   authors: Zhaoqing Zhu, Mingzhe Sui, Hanting Li, Feng Zhao
   venue: "IEEE International Conference on Multimedia and Expo (ICME, Oral)"
-  link:
-    url: 
-    display: \[Paper\]
-  code:
-    url: 
-    display: \[Code\]
-  highlight: 0
-  year: 2022
-
-- title: "Low-Light Stereo Image Enhancement"
-  authors: Jie Huang, Xueyang Fu, Zeyu Xiao, Feng Zhao, Zhiwei Xiong
-  venue: "IEEE Transactions on Multimedia (TMM)"
-  link:
-    url: 
-    display: \[Paper\]
-  code:
-    url: 
-    display: \[Code\]
-  highlight: 0
-  year: 2022
-
-- title: "Effective Pan-Sharpening With Transformer and Invertible Neural Network"
-  authors: Man Zhou, Xueyang Fu, Jie Huang, Feng Zhao, Aiping Liu, Rujing Wang
-  venue: "IEEE Transactions on Geoscience and Remote Sensing (TGRS)"
-  link:
-    url: 
-    display: \[Paper\]
-  code:
-    url: 
-    display: \[Code\]
-  highlight: 0
-  year: 2022
-
-- title: "Unsupervised Person Re-Identification Via Global-Level And Patch-Level Discriminative Feature Learning"
-  authors: Zongzhe Sun, Feng Zhao, Feng Wu
-  venue: "IEEE International Conference on Image Processing (ICIP)"
-  link:
-    url: 
-    display: \[Paper\]
-  code:
-    url: 
-    display: \[Code\]
-  highlight: 0
-  year: 2022
-
-- title: "Disentangle Your Dense Object Detector"
-  authors: Zehui Chen, Chenhongyi Yang, Qiaofei Li, Feng Zhao, Zheng-Jun Zha, Feng Wu
-  venue: "ACM International Conference on Multimedia (ACM MM, Oral)"
-  link:
-    url: 
-    display: \[Paper\]
-  code:
-    url: 
-    display: \[Code\]
-  highlight: 0
-  year: 2022
-
-- title: "FFNet-M: Feature fusion network with masks for multimodal facial expression recognition"
-  authors: Mingzhe Sui, Zhaoqing Zhu, Feng Zhao, Feng Wu
-  venue: "IEEE International Conference on Multimedia and Expo (ICME)"
   link:
     url: 
     display: \[Paper\]

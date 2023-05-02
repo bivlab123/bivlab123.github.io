@@ -1,0 +1,347 @@
+I"@<h2 id="publications">Publications</h2>
+
+<p>Papers by BIVLab members (Starting 2021)</p>
+
+<h3 id="2023">2023</h3>
+
+<h4>Journal</h4>
+
+<p><b>DDOD: Dive Deeper into the Disentanglement of Object Detector</b> <br />
+  Zehui Chen, Chenhongyi Yang, Jiahao Chang, Feng Zhao, Zheng-Jun Zha, Feng Wu <br />
+  <em>IEEE Transactions on Multimedia (TMM)</em> <br />
+  <a href="">[Paper]</a>
+  <a href="">[Code]</a></p>
+
+<p><b>Deep Adaptive Pansharpening via Uncertainty-aware Image Fusion</b> <br />
+  Kaiwen Zheng, Jie Huang, Man Zhou, Danfeng Hong, Feng Zhao <br />
+  <em>IEEE Transactions on Geoscience and Remote Sensing (TGRS)</em> <br />
+  <a href="">[Paper]</a>
+  <a href="">[Code]</a></p>
+
+<p><b>Counterfactual Attention Alignment for Visible-Infrared Cross-Modality Person Re-Identification</b> <br />
+  Zongzhe Sun, Feng Zhao <br />
+  <em>Pattern Recognition Letters</em> <br />
+  <a href="">[Paper]</a>
+  <a href="">[Code]</a></p>
+
+<h4>Conference</h4>
+
+<p><b>Guided Patch-Grouping Wavelet Transformer with Spatial Congruence for Ultra-High Resolution Segmentation</b> <br />
+  Deyi Ji, Feng Zhao, Hongtao Lu <br />
+  <em>International JointConference on Artificial Intelligence (IJCAI)</em> <br />
+  <a href="">[Paper]</a>
+  <a href="">[Code]</a></p>
+
+<p><b>SAFE: Simultaneous Alignment of Features and Predictions for Dense Object Detectors</b> <br />
+  Xuesong Guo, Shuo Wang, Jiahao Chang, Zehui Chen, Feng Zhao <br />
+  <em>IEEE International Conference on Multimedia and Expo (ICME)</em> <br />
+  <a href="">[Paper]</a>
+  <a href="">[Code]</a></p>
+
+<p><b>Asymmetric Color Transfer with Consistent Modality Learning</b> <br />
+  Kaiwen Zheng, Jie Huang, Man Zhou, Feng Zhao <br />
+  <em>CVPR Workshop on Mobile Intelligent Photography and Imaging (CVPRW)</em> <br />
+  <a href="">[Paper]</a>
+  <a href="">[Code]</a></p>
+
+<p><b>Efficient Multi-exposure Image Fusion via Filter-dominated Fusion and Gradient-driven Unsupervised Learning</b> <br />
+  Kaiwen Zheng, Jie Huang, Hu Yu, Feng Zhao <br />
+  <em>CVPR Workshop on Mobile Intelligent Photography and Imaging (CVPRW)</em> <br />
+  <a href="">[Paper]</a>
+  <a href="">[Code]</a></p>
+
+<p><b>Ultra-high Resolution Segmentation with Ultra-rich Context: A Novel Benchmark</b> <br />
+  Deyi Ji, Feng Zhao, Hongtao Lu, Mingyuan Tao, Jieping Ye <br />
+  <em>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</em> <br />
+  <a href="">[Paper]</a>
+  <a href="">[Code]</a></p>
+
+<p><b>Learning Sample Relationship for Exposure Correction</b> <br />
+  Jie Huang, Feng Zhao, Man Zhou, Jie Xiao, Naishan Zheng, Kaiwen Zheng, Zhiwei Xiong <br />
+  <em>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</em> <br />
+  <a href="">[Paper]</a>
+  <a href="">[Code]</a></p>
+
+<p><b>Ingredient-oriented Multi-degradation Learning for Image Restoration</b> <br />
+  Jinghao Zhang, Jie Huang, Mingde Yao, Zizheng Yang, Hu Yu, Man Zhou, Feng Zhao <br />
+  <em>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</em> <br />
+  <a href="">[Paper]</a>
+  <a href="">[Code]</a></p>
+
+<p><b>Visual Recognition-driven Image Restoration for Multiple Degradation with Intrinsic Semantics Recovery</b> <br />
+  Zizheng Yang, Jie Huang, Jiahao Chang, Man Zhou, Hu Yu, Jinghao Zhang, Feng Zhao <br />
+  <em>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</em> <br />
+  <a href="">[Paper]</a>
+  <a href="">[Code]</a></p>
+
+<p><b>Towards Domain Generalization for Multi-view 3D Object Detection in Bird-Eye-View</b> <br />
+  Shuo Wang, Xinhai Zhao, Haiming Xu, Zehui Chen, Dameng Yu, Jiahao Chang, Zhen Yang, Feng Zhao <br />
+  <em>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</em> <br />
+  <a href="">[Paper]</a>
+  <a href="">[Code]</a></p>
+
+<p><b>BEVDistill: Cross-Modal BEV Distillation for Multi-View 3D Object Detection</b> <br />
+  Zehui Chen, Zhenyu Li, Shiquan Zhang, Liangji Fang, Qinhong Jiang, Feng Zhao <br />
+  <em>The Eleventh International Conference on Learning Representations (ICLR)</em> <br />
+  <a href="">[Paper]</a>
+  <a href="">[Code]</a></p>
+
+<p><b>Intensity-Aware Loss for Dynamic Facial Expression Recognition in the Wild</b> <br />
+  Hanting Li, Hongjing Niu, Zhaoqing Zhu, Feng Zhao <br />
+  <em>The Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI)</em> <br />
+  <a href="">[Paper]</a>
+  <a href="">[Code]</a></p>
+
+<p><b>Learning Semantic Degradation-Aware Guidance for Recognition-Driven Unsupervised Low-Light Image Enhancement</b> <br />
+  Naishan Zheng, Jie Huang, Man Zhou, Zizheng Yang, Qi Zhu, Feng Zhao <br />
+  <em>The Thirty-Seventh AAAI Conference on Artificial Intelligence (AAAI)</em> <br />
+  <a href="">[Paper]</a>
+  <a href="">[Code]</a></p>
+
+<h3 id="2022">2022</h3>
+
+<h4>Journal</h4>
+
+<p><b>Modality-Aware Feature Integration for Pan-Sharpening</b> <br />
+  Man Zhou, Jie Huang, Feng Zhao, Danfeng Hong <br />
+  <em>IEEE Transactions on Geoscience and Remote Sensing (TGRS)</em> <br />
+  <a href="">[Paper]</a>
+  <a href="">[Code]</a></p>
+
+<p><b>Effective Pan-sharpening by Multi-Scale Invertible Neural Network and Heterogeneous Task Distilling</b> <br />
+  Man Zhou, Jie Huang, Xueyang Fu, Feng Zhao, Danfeng Hong <br />
+  <em>IEEE Transactions on Geoscience and Remote Sensing (TGRS)</em> <br />
+  <a href="">[Paper]</a>
+  <a href="">[Code]</a></p>
+
+<p><b>Whole-Body Control of an Autonomous Mobile Manipulator Using Model Predictive Control and Adaptive Fuzzy Technique</b> <br />
+  Wang Yuan, Yonghua Liu, Chunyi Su, Feng Zhao <br />
+  <em>IEEE Transactions on Fuzzy Systems (TFS)</em> <br />
+  <a href="">[Paper]</a>
+  <a href="">[Code]</a></p>
+
+<p><b>Unsupervised Underexposed Image Enhancement via Self-Illuminated and Perceptual Guidance</b> <br />
+  Naishan Zheng, Jie Huang, Feng Zhao, Xueyang Fu, Feng Wu <br />
+  <em>IEEE Transactions on Multimedia (TMM)</em> <br />
+  <a href="">[Paper]</a>
+  <a href="">[Code]</a></p>
+
+<p><b>Low-Light Stereo Image Enhancement</b> <br />
+  Jie Huang, Xueyang Fu, Zeyu Xiao, Feng Zhao, Zhiwei Xiong <br />
+  <em>IEEE Transactions on Multimedia (TMM)</em> <br />
+  <a href="">[Paper]</a>
+  <a href="">[Code]</a></p>
+
+<p><b>Effective Pan-Sharpening With Transformer and Invertible Neural Network</b> <br />
+  Man Zhou, Xueyang Fu, Jie Huang, Feng Zhao, Aiping Liu, Rujing Wang <br />
+  <em>IEEE Transactions on Geoscience and Remote Sensing (TGRS)</em> <br />
+  <a href="">[Paper]</a>
+  <a href="">[Code]</a></p>
+
+<h4 id="conference">Conference</h4>
+
+<p><b>RelCLIP: Adapting Language-Image Pretraining for Visual Relationship Detection via Relational Contrastive Learning</b> <br />
+  Yi Zhu, Zhaoqing Zhu, Bingqian Lin, Xiaodan Liang, Feng Zhao, Jianzhuang Liu <br />
+  <em>The 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP)</em> <br />
+  <a href="">[Paper]</a>
+  <a href="">[Code]</a></p>
+
+<p><b>Deep Fourier Up-Sampling</b> <br />
+  Man Zhou, Hu Yu, Jie Huang, Feng Zhao, Jinwei Gu, Chen Change Loy, Deyu Meng, Chongyi Li <br />
+  <em>Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS)</em> <br />
+  <a href="">[Paper]</a>
+  <a href="">[Code]</a></p>
+
+<p><b>Panchromatic and Multispectral Image Fusion via Alternating Reverse Filtering Network</b> <br />
+  Keyu Yan, Man Zhou, Jie Huang, Feng Zhao, Chengjun Xie, Chongyi Li, Danfeng Hong <br />
+  <em>Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS)</em> <br />
+  <a href="">[Paper]</a>
+  <a href="">[Code]</a></p>
+
+<p><b>Roadblocks for Temporarily Disabling Shortcuts and Learning New Knowledge</b> <br />
+  Hongjing Niu, Hanting Li, Feng Zhao, Bin Li <br />
+  <em>Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS)</em> <br />
+  <a href="">[Paper]</a>
+  <a href="">[Code]</a></p>
+
+<p><b>Smart Calibration between RGB-D and Thermal Cameras for ROI Detection and Tracking in Physiological Monitoring</b> <br />
+  Feng Zhao, Serhan Cosar, Nicola Bellotton, Shigang Yue <br />
+  <em>Encyclopedia of Computer Graphics and Games</em> <br />
+  <a href="">[Paper]</a>
+  <a href="">[Code]</a></p>
+
+<p><b>CNSNet: A Cleanness-Navigated-Shadow Network for Shadow Removal</b> <br />
+  Qianhao Yu, Naishan Zheng, Jie Huang, Feng Zhao <br />
+  <em>ECCV Workshop on Advances in Image Manipulation (ECCVW)</em> <br />
+  <a href="">[Paper]</a>
+  <a href="">[Code]</a></p>
+
+<p><b>Deep Fourier-based Exposure Correction Network with Spatial-Frequency Interaction</b> <br />
+  Jie Huang, Yajing Liu, Feng Zhao, Keyu Yan, Jinghao Zhang, Yukun Huang, Man Zhou, Zhiwei Xiong <br />
+  <em>European Conference on Computer Vision (ECCV, Oral)</em> <br />
+  <a href="">[Paper]</a>
+  <a href="">[Code]</a></p>
+
+<p><b>Spatial-Frequency Domain Information Integration for Pan-sharpening</b> <br />
+  Man Zhou, Jie Huang, Keyu Yan, Hu Yu, Xueyang Fu, Aiping Liu, Xian Wei, Feng Zhao <br />
+  <em>European Conference on Computer Vision (ECCV)</em> <br />
+  <a href="">[Paper]</a>
+  <a href="">[Code]</a></p>
+
+<p><b>Deformable Feature Aggregation for Dynamic Multi-Modal 3D Object Detection</b> <br />
+  Zehui Chen, Zhenyu Li, Shiquan Zhang, Liangji Fang, Qinhong Jiang, Feng Zhao <br />
+  <em>European Conference on Computer Vision (ECCV)</em> <br />
+  <a href="">[Paper]</a>
+  <a href="">[Code]</a></p>
+
+<p><b>Frequency and Spatial Dual Guidance for Image Dehazing</b> <br />
+  Hu Yu, Naishan Zheng, Man Zhou, Jie Huang, Feng Zhao <br />
+  <em>European Conference on Computer Vision (ECCV)</em> <br />
+  <a href="">[Paper]</a>
+  <a href="">[Code]</a></p>
+
+<p><b>Adaptively Learning Low-high Frequency Information Integration for Pan-sharpening</b> <br />
+  Man Zhou, Jie Huang, Chongyi Li, Hu Yu, Keyu Yu, Naishan Zheng, Feng Zhao <br />
+  <em>ACM International Conference on Multimedia (ACM MM)</em> <br />
+  <a href="">[Paper]</a>
+  <a href="">[Code]</a></p>
+
+<p><b>Customizing GAN Using Few-shot Sketches</b> <br />
+  Syed Muhammad Israr, Feng Zhao <br />
+  <em>ACM International Conference on Multimedia (ACM MM)</em> <br />
+  <a href="">[Paper]</a>
+  <a href="">[Code]</a></p>
+
+<p><b>Enhancement by Your Aesthetic: An Intelligible Unsupervised Personalized Enhancer for Low-Light Images</b> <br />
+  Naishan Zheng, Jie Huang, Qi Zhu, Man Zhou, Feng Zhao, Zheng-Jun Zha <br />
+  <em>ACM International Conference on Multimedia (ACM MM)</em> <br />
+  <a href="">[Paper]</a>
+  <a href="">[Code]</a></p>
+
+<p><b>Exposure-Consistency Representation Learning for Exposure Correction</b> <br />
+  Jie Huang, Man Zhou, Yajing Liu, Mingde Yao, Feng Zhao, Zhiwei Xiong <br />
+  <em>ACM International Conference on Multimedia (ACM MM)</em> <br />
+  <a href="">[Paper]</a>
+  <a href="">[Code]</a></p>
+
+<p><b>Graph-DETR3D: Rethinking Overlapping Regions for Multi-View 3D Object Detection</b> <br />
+  Zehui Chen, Zhenyu Li, Shiquan Zhang, Liangji Fang, Qinhong Jiang, Feng Zhao <br />
+  <em>ACM International Conference on Multimedia (ACM MM)</em> <br />
+  <a href="">[Paper]</a>
+  <a href="">[Code]</a></p>
+
+<p><b>Normalization-based Feature Selection and Restitution for Pan-sharpening</b> <br />
+  Man Zhou, Jie Huang, Keyu Yan, Gang Yang, Aiping Liu, Chongyi Li, Feng Zhao <br />
+  <em>ACM International Conference on Multimedia (ACM MM)</em> <br />
+  <a href="">[Paper]</a>
+  <a href="">[Code]</a></p>
+
+<p><b>SIR-Former: Stereo Image Restoration Using Transformer</b> <br />
+  Zizheng Yang , Mingde Yao , Jie Huang , Man Zhou , Feng Zhao <br />
+  <em>ACM International Conference on Multimedia (ACM MM)</em> <br />
+  <a href="">[Paper]</a>
+  <a href="">[Code]</a></p>
+
+<p><b>Source-Free Domain Adaptation for Real-world Image Dehazing</b> <br />
+  Hu Yu, Jie Huang, Yajing Liu, Qi Zhu, Man Zhou, Feng Zhao <br />
+  <em>ACM International Conference on Multimedia (ACM MM)</em> <br />
+  <a href="">[Paper]</a>
+  <a href="">[Code]</a></p>
+
+<p><b>Structure- and Texture-Aware Learning for Low-Light Image Enhancement</b> <br />
+  Jinghao Zhang, Jie Huang, Mingde Yao, Man Zhou, Feng Zhao <br />
+  <em>ACM International Conference on Multimedia (ACM MM)</em> <br />
+  <a href="">[Paper]</a>
+  <a href="">[Code]</a></p>
+
+<p><b>AutoAlign: Pixel-Instance Feature Aggregation for Multi-Modal 3D Object Detection</b> <br />
+  Zehui Chen, Zhenyu Li, Shiquan Zhang, Liangji Fang, Qinhong Jiang, Feng Zhao, Bolei Zhou, Hang Zhao <br />
+  <em>International Joint Conferences on Artificial Intelligence (IJCAI)</em> <br />
+  <a href="">[Paper]</a>
+  <a href="">[Code]</a></p>
+
+<p><b>MMNet: Muscle Motion-guided Network for Micro-expression Recognition</b> <br />
+  Hanting Li, Mingzhe Sui, Zhaoqing Zhu, Feng Zhao <br />
+  <em>International Joint Conferences on Artificial Intelligence (IJCAI)</em> <br />
+  <a href="">[Paper]</a>
+  <a href="">[Code]</a></p>
+
+<p><b>Bijective Mapping Network for Shadow Removal</b> <br />
+  Yurui Zhu, Jie Huang, Xueyang Fu, Feng Zhao, Qibin Sun, Zheng-Jun Zha <br />
+  <em>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR, Oral)</em> <br />
+  <a href="">[Paper]</a>
+  <a href="">[Code]</a></p>
+
+<p><b>Unleashing Potential of Unsupervised Pre-Training with Intra-Identity Regularization for Person Re-Identification</b> <br />
+  Zizheng Yang, Xin Jin, Kecheng Zheng, Feng Zhao <br />
+  <em>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</em> <br />
+  <a href="">[Paper]</a>
+  <a href="">[Code]</a></p>
+
+<p><b>Exposure Normalization and Compensation for Multiple Exposure Correction</b> <br />
+  Jie Huang, Yajing Liu, Xueyang Fu, Man Zhou, Yang Wang, Feng Zhao, Zhiwei Xiong <br />
+  <em>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</em> <br />
+  <a href="">[Paper]</a>
+  <a href="">[Code]</a></p>
+
+<p><b>Mutual Information-driven Pan-sharpening</b> <br />
+  Man Zhou, Keyu Yan, Jie Huang, Zihe Yang, Xueyang Fu, Feng Zhao <br />
+  <em>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)</em> <br />
+  <a href="">[Paper]</a>
+  <a href="">[Code]</a></p>
+
+<p><b>DAST-Net: Depth-aware spatio-temporal network for video deblurring</b> <br />
+  Qi Zhu, Zeyu Xiao, Jie Huang, Feng Zhao <br />
+  <em>IEEE International Conference on Multimedia and Expo (ICME, Oral)</em> <br />
+  <a href="">[Paper]</a>
+  <a href="">[Code]</a></p>
+
+<p><b>CMANet: Curvature-aware soft mask guided attention fusion network for 2D+3D facial expression recognition</b> <br />
+  Zhaoqing Zhu, Mingzhe Sui, Hanting Li, Feng Zhao <br />
+  <em>IEEE International Conference on Multimedia and Expo (ICME, Oral)</em> <br />
+  <a href="">[Paper]</a>
+  <a href="">[Code]</a></p>
+
+<h3 id="2021">2021</h3>
+
+<h4 id="journal">Journal</h4>
+
+<p><b>ENRICHME: Perception and interaction of an assistive robot for the elderly at home</b> <br />
+  Serhan Cosar, Manuel Fernandez-Carmona, Roxana Agrigoroaie, Jordi Pages, Francois Ferland, Feng Zhao,Shigang Yue, Nicola Bellotto, Adriana Tapus <br />
+  <em>International Journal of Social Robotics (IJSR)</em> <br />
+  <a href="">[Paper]</a>
+  <a href="">[Code]</a></p>
+
+<p><b>Deep learning-based classification of liver cancer histopathology image using only global labels</b> <br />
+  Chunli Sun, Ao Xu, Dong Liu, Zhiwei Xiong, Feng Zhao, Weiping Ding <br />
+  <em>IEEE Journal of Biomedical and Health Informatics (JBHI)</em> <br />
+  <a href="">[Paper]</a>
+  <a href="">[Code]</a></p>
+
+<h4 id="conference-1">Conference</h4>
+
+<p><b>Unsupervised Person Re-Identification Via Global-Level And Patch-Level Discriminative Feature Learning</b> <br />
+  Zongzhe Sun, Feng Zhao, Feng Wu <br />
+  <em>IEEE International Conference on Image Processing (ICIP)</em> <br />
+  <a href="">[Paper]</a>
+  <a href="">[Code]</a></p>
+
+<p><b>Disentangle Your Dense Object Detector</b> <br />
+  Zehui Chen, Chenhongyi Yang, Qiaofei Li, Feng Zhao, Zheng-Jun Zha, Feng Wu <br />
+  <em>ACM International Conference on Multimedia (ACM MM, Oral)</em> <br />
+  <a href="">[Paper]</a>
+  <a href="">[Code]</a></p>
+
+<p><b>FFNet-M: Feature fusion network with masks for multimodal facial expression recognition</b> <br />
+  Mingzhe Sui, Zhaoqing Zhu, Feng Zhao, Feng Wu <br />
+  <em>IEEE International Conference on Multimedia and Expo (ICME)</em> <br />
+  <a href="">[Paper]</a>
+  <a href="">[Code]</a></p>
+
+<p><b>Hybrid Image Enhancement With Progressive Laplacian Enhancing Unit</b> <br />
+  Jie Huang, Zhiwei Xiong, Xueyang Fu, Dong Liu, Zheng-Jun Zha <br />
+  <em>ACM International Conference on Multimedia (ACM MM)</em> <br />
+  <a href="">[Paper]</a>
+  <a href="">[Code]</a></p>
+
+:ET

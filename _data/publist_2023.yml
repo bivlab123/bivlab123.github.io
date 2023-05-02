@@ -1,6 +1,54 @@
-- title: "Ultra-high resolution Segmentation with Ultra-rich Context: A Novel Benchmark"
+- title: "Guided Patch-Grouping Wavelet Transformer with Spatial Congruence for Ultra-High Resolution Segmentation"
+  authors: Deyi Ji, Feng Zhao, Hongtao Lu
+  venue: "International JointConference on Artificial Intelligence (IJCAI)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2023
+
+- title: "SAFE: Simultaneous Alignment of Features and Predictions for Dense Object Detectors"
+  authors: Xuesong Guo, Shuo Wang, Jiahao Chang, Zehui Chen, Feng Zhao
+  venue: "IEEE International Conference on Multimedia and Expo (ICME)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2023
+
+- title: "Asymmetric Color Transfer with Consistent Modality Learning"
+  authors: Kaiwen Zheng, Jie Huang, Man Zhou, Feng Zhao
+  venue: "CVPR Workshop on Mobile Intelligent Photography and Imaging (CVPRW)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2023
+
+- title: "Efficient Multi-exposure Image Fusion via Filter-dominated Fusion and Gradient-driven Unsupervised Learning"
+  authors: Kaiwen Zheng, Jie Huang, Hu Yu, Feng Zhao
+  venue: "CVPR Workshop on Mobile Intelligent Photography and Imaging (CVPRW)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2023
+
+- title: "Ultra-high Resolution Segmentation with Ultra-rich Context: A Novel Benchmark"
   authors: Deyi Ji, Feng Zhao, Hongtao Lu, Mingyuan Tao, Jieping Ye
-  venue: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>)"
+  venue: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)"
   link:
     url: 
     display: \[Paper\]
@@ -11,7 +59,7 @@
   year: 2023
 
 - title: "Learning Sample Relationship for Exposure Correction"
-  authors: Jie Huang, Man Zhou, Jie Xiao, Kaiwen Zheng, Naishan Zheng, Feng Zhao, Zhiwei Xiong
+  authors: Jie Huang, Feng Zhao, Man Zhou, Jie Xiao, Naishan Zheng, Kaiwen Zheng, Zhiwei Xiong
   venue: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)"
   link:
     url: 
