@@ -1,3 +1,27 @@
+- title: "Exploring Temporal Frequency Spectrum in Deep Video Deblurring"
+  authors: Qi Zhu, Man Zhou, Naishan Zheng, Jie Huang, Chongyi Li, Feng Zhao
+  venue: "International Conference on Computer Vision (ICCV)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2023
+  
+- title: "Empowering Low-Light Image Enhancer through Customized Learnable Priors"
+  authors: Naishan Zheng, Yanmeng Dong, Xiangyu Rui, Jie Huang, Chongyi Li, Man Zhou, Feng Zhao
+  venue: "International Conference on Computer Vision (ICCV)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2023
+
 - title: "DETRDistill: A Universal Knowledge Distillation Framework for DETR-families"
   authors: Jiahao Chang, Shuo Wang, Haiming Xu, Zehui Chen, Chenhongyi Yang, Feng Zhao
   venue: "International Conference on Computer Vision (ICCV)"
