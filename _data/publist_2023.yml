@@ -1,3 +1,39 @@
+- title: "Transition-constant Normalization for Image Enhancement"
+  authors: Jie Huang, Man Zhou, JingHao Zhang, Gang Yang, Mingde Yao, Chongyi Li, Zhiwei Xiong, Feng Zhao
+  venue: "Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS, spotlight)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2023
+
+- title: "Deep Fractional Fourier Transform"
+  authors: Hu Yu, Jie Huang, Lingzhi Li, Man Zhou, Feng Zhao
+  venue: "Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS, spotlight)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2023
+
+- title: "FouriDown: Factoring Down-Sampling into Shuffling and Superposing"
+  authors: Qi Zhu, Man Zhou, Jie Huang, Naishan Zheng, Hongzhi Gao, Chongyi Li, Yuan Xu, Feng Zhao
+  venue: "Thirty-seventh Conference on Neural Information Processing Systems (NeurIPS)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2023
+
 - title: "Exploring Temporal Frequency Spectrum in Deep Video Deblurring"
   authors: Qi Zhu, Man Zhou, Naishan Zheng, Jie Huang, Chongyi Li, Feng Zhao
   venue: "International Conference on Computer Vision (ICCV)"
