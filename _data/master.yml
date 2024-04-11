@@ -8,24 +8,6 @@
 #  education3:
 #  education4:
 
-- name: Guangkai Xu
-  photo: guangkaixu.jpg
-  homepage: 
-  year: Joining Fall 2020
-  info:
-
-- name: Zhaoqing Zhu
-  photo: zhaoqingzhu.jpg
-  homepage: 
-  year: Joining Fall 2020
-  info:
-
-- name: Xuesong Guo
-  photo: xuesongguo.jpg
-  homepage: 
-  year: Joining Fall 2020
-  info:
-
 - name: Qianhao Yu
   photo: qianhaoyu.jpg
   homepage: 
@@ -104,14 +86,38 @@
   year: Joining Fall 2022
   info:
 
-# - name: Min Shu
-#   photo: minshu.jpg
-#   homepage: 
-#   year: Joining Fall 2020
-#   info:
+- name: Yukun Qi
+  photo: yukunqi.jpg
+  homepage: 
+  year: Joining Fall 2023
+  info:
 
-# - name: Feng Lu
-#   photo: fenglu.jpg
-#   homepage: 
-#   year: Joining Fall 2020
-#   info:
+- name: Qiuchen Wang
+  photo: qiuchenwang.jpg
+  homepage: 
+  year: Joining Fall 2023
+  info:
+
+- name: Zhen Zou
+  photo: zhenzou.jpg
+  homepage: 
+  year: Joining Fall 2023
+  info:
+
+- name: Jiangtong Tan
+  photo: jiangtongtan.jpg
+  homepage: 
+  year: Joining Fall 2023
+  info:
+
+- name: Siyang Wang
+  photo: siyangwang.jpg
+  homepage: 
+  year: Joining Fall 2023
+  info:
+
+- name: Yichang Qu
+  photo: yichangqu.jpg
+  homepage: 
+  year: Joining Fall 2023
+  info:

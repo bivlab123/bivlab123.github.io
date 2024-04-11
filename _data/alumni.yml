@@ -1,11 +1,35 @@
+- name: Zhaoqing Zhu
+  photo: zhaoqingzhu.jpg
+  homepage: 
+  year: 2020-2023
+  info: Alibaba Algorithm Researcher (Hangzhou)
+
+- name: Guangkai Xu
+  photo: guangkaixu.jpg
+  homepage: 
+  year: 2020-2023
+  info: Zhejiang University PhD Candidate
+
+- name: Xuesong Guo
+  photo: xuesongguo.jpg
+  homepage: 
+  year: 2020-2023
+  info:
+
+- name: Jie Huang
+  photo: jiehuang.jpg
+  homepage: https://huangkevinj.github.io/
+  year: 2020-2023
+  info: PostDoc at CUHK, MMLab (HongKong)
+
 - name: Zongzhe Sun
   photo: zongzhesun.jpg
   homepage: 
-  year: Studying 2019-2022
+  year: 2019-2022
   info: HIKVision (Hangzhou)
 
 - name: Mingzhe Sui
   photo: mingzhesui.jpg
   homepage: 
-  year: Studying 2019-2022
+  year: 2019-2022
   info: HIKVision (Hangzhou)
