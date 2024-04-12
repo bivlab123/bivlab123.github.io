@@ -1,3 +1,15 @@
+- title: "Frequency-Consistent Optimization for Image Enhancement Networks"
+  authors: Bing Li, Naishan Zheng, Qi Zhu, Jie Huang, Feng Zhao
+  venue: "British Machine Vision Conference (BMVC)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2023
+  
 - title: "CLIPER: A Unified Vision-Language Framework for In-the-Wild Facial Expression Recognition"
   authors: Hanting Li, Hongjing Niu, Zhaoqing Zhu, Feng Zhao
   venue: "IEEE Conference on Multimedia Expo (ICME)"
