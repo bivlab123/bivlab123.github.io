@@ -1,3 +1,52 @@
+- title: "PsySafe: A Comprehensive Framework for Psychological-based Attack, Defense, and Evaluation of Multi-agent System Safety"
+  authors: Zaibin Zhang*, Yongting Zhang*, Lijun Li, Jing Shao, Hongzhi Gao, Yu Qiao, Lijun Wang, Huchuan Lu, Feng Zhao
+  venue: "the Association for Computational Linguistics (ACL)"
+  link:
+    url:
+    display: \[Paper\]
+  code:
+    url:
+    display: \[Code\]
+  highlight: 0
+  year: 2024
+  
+
+- title: "T-Eval: Evaluating the Tool Utilization Capability Step by Step"
+  authors: Zehui Chen, Weihua Du, Wenwei Zhang, Kuikun Liu, Jiangning Liu, Miao Zheng, Jingming Gao, Songyang Zhang, Dahua Lin, Kai Chen, Feng Zhao
+  venue: "the Association for Computational Linguistics (ACL)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2024
+
+- title: "Agent-FLAN: Designing Data and Methods of Effective Agent Tuning for Large Language Models"
+  authors: Zehui Chen, Kuikun Liu, Qiuchen Wang, Wenwei Zhang, Jiangning Liu, Dahua Lin, Kai Chen, Feng Zhao
+  venue: "Findings of the Association for Computational Linguistics (ACL Findings)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2024
+
+- title: "Discrete Latent Perspective Learning for Segmentation and Detection"
+  authors: Deyi Ji, Feng Zhao, Lanyun Zhu, Wenwei Jin, Hongtao Lu, Jieping Ye
+  venue: "International Conference on Machine Learning (ICML)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2024
+
 - title: "Frequency-Consistent Optimization for Image Enhancement Networks"
   authors: Bing Li, Naishan Zheng, Qi Zhu, Jie Huang, Feng Zhao
   venue: "British Machine Vision Conference (BMVC)"
@@ -8,7 +57,7 @@
     url: 
     display: \[Code\]
   highlight: 0
-  year: 2023
+  year: 2024
   
 - title: "CLIPER: A Unified Vision-Language Framework for In-the-Wild Facial Expression Recognition"
   authors: Hanting Li, Hongjing Niu, Zhaoqing Zhu, Feng Zhao
