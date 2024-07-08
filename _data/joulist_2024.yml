@@ -1,3 +1,15 @@
+- title: "Graph-DETR4D: Spatio-Temporal Graph Modeling for Multi-View 3D Object Detection"
+  authors: Zehui Chen, Zheng Chen, Zhenyu Li, Shiquan Zhang, Liangji Fang, Qinhong Jiang, Feng Wu, Feng Zhao
+  venue: "IEEE Transactions on Image Processing (TIP)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2024
+  
 - title: "Learning Spatio-Temporal Sharpness Map for Video Deblurring"
   authors: Qi Zhu, Naishan Zheng, Jie Huang, Man Zhou, Jinghao Zhang, Feng Zhao
   venue: "IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)"

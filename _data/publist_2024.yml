@@ -1,3 +1,75 @@
+- title: "Stable Preference: Redefining training paradigm of human preference model for Text-to-Image Synthesis"
+  authors: Hanting Li, Hongjing Niu, Feng Zhao
+  venue: "The 18th European Conference on Computer Vision (ECCV)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2024
+
+- title: "Idling Neurons, Appropriately Lenient Workload During Fine-tuning Leads to Better Generalization"
+  authors: Hongjing Niu, Hanting Li, Bin Li, Feng Zhao
+  venue: "The 18th European Conference on Computer Vision (ECCV)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2024
+  
+- title: "Unleashing the Potential of the Semantic Latent Space in Diffusion Models for Image Dehazing"
+  authors: Zizheng Yang, Hu Yu, Bing Li, Jinghao Zhang, Jie Huang, Feng Zhao
+  venue: "The 18th European Conference on Computer Vision (ECCV)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2024
+
+- title: "ShareGPT4V: Improving Large Multi-modal Models with Better Captions"
+  authors: Lin Chen, Jisong Li, Xiaoyi Dong, Pan Zhang, Conghui He, Jiaqi Wang, Feng Zhao, Dahua Lin
+  venue: "The 18th European Conference on Computer Vision (ECCV)"
+  link:
+    url: https://arxiv.org/abs/2311.12793
+    display: \[Paper\]
+  code:
+    url: https://github.com/ShareGPT4Omni/ShareGPT4V
+    display: \[Code\]
+  highlight: 0
+  year: 2024
+
+- title: "Unmasking Bias in Diffusion Model Training"
+  authors: Hu Yu, Li Shen, Jie Huang, Hongsheng Li, Feng Zhao
+  venue: "The 18th European Conference on Computer Vision (ECCV)"
+  link:
+    url: https://arxiv.org/abs/2310.08442v2
+    display: \[Paper\]
+  code:
+    url: https://github.com/yuhuUSTC/Debias
+    display: \[Code\]
+  highlight: 0
+  year: 2024
+
+- title: "Stream Query Denoising for Vectorized HD Map Construction"
+  authors: Shuo Wang, Fan Jia, Yingfei Liu, Yucheng Zhao, Zehui Chen, Tiancai Wang, Chi Zhang, Xiangyu Zhang, Feng Zhao
+  venue: "The 18th European Conference on Computer Vision (ECCV)"
+  link:
+    url:
+    display: \[Paper\]
+  code:
+    url:
+    display: \[Code\]
+  highlight: 0
+  year: 2024
+
 - title: "PsySafe: A Comprehensive Framework for Psychological-based Attack, Defense, and Evaluation of Multi-agent System Safety"
   authors: Zaibin Zhang*, Yongting Zhang*, Lijun Li, Jing Shao, Hongzhi Gao, Yu Qiao, Lijun Wang, Huchuan Lu, Feng Zhao
   venue: "the Association for Computational Linguistics (ACL)"
