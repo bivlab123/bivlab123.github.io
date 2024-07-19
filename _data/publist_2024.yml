@@ -1,3 +1,15 @@
+- title: "RodinHD: High-Fidelity 3D Avatar Generation with Diffusion Models"
+  authors: Bowen Zhang, Yiji Cheng, Chunyu Wang, Ting Zhang, Jiaolong Yang, Yansong Tang, Feng Zhao, Dong Chen, Baining Guo.
+  venue: "The 18th European Conference on Computer Vision (ECCV)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2024
+
 - title: "Stable Preference: Redefining training paradigm of human preference model for Text-to-Image Synthesis"
   authors: Hanting Li, Hongjing Niu, Feng Zhao
   venue: "The 18th European Conference on Computer Vision (ECCV)"
