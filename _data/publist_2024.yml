@@ -1,3 +1,75 @@
+- title: "Rectifying Shortcut Learning through Cellular Differentiation in Deep Learning Neurons"
+  authors: Hongjing Niu, Hanting Li, Guoping Wu, Bin Li, Feng Zhao
+  venue: "The 35th British Machine Vision Conference (BMVC)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2024
+
+- title: "Frequency Decomposition to Tap the Potential of Single Domain for Generalization"
+  authors: Hongjing Niu, Qingyue Yang, Pengfei Xia, Wei Zhang, Bin Li, Feng Zhao
+  venue: "The 35th British Machine Vision Conference (BMVC)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2024
+  
+- title: "Task-Related Feature Enhancement Network for Neuronal Morphology Classification"
+  authors: Chunli Sun, Feng Zhao
+  venue: "The 35th British Machine Vision Conference (BMVC)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2024
+
+- title: "Image-free Pre-training for Low-Level Vision"
+  authors: Siyang Wang, JingHao Zhang, Jie Huang, Feng Zhao
+  venue: "ACM International Conference on Multimedia (ACM MM)"
+  link:
+    url: https://openreview.net/pdf?id=7dGcZ5xTVP
+    display: \[Paper\]
+  code:
+    url: https://github.com/siywang541/IFP
+    display: \[Code\]
+  highlight: 0
+  year: 2024
+
+- title: "Training Pansharpening Networks at Full Resolution Using Degenerate Invariance"
+  authors: YiChang Qu, Bing Li, Jie Huang, Feng Zhao
+  venue: "ACM International Conference on Multimedia (ACM MM)"
+  link:
+    url: https://openreview.net/pdf?id=KFbRc2bvaJ
+    display: \[Paper\]
+  code:
+    url: https://github.com/quycruin/Qvac
+    display: \[Code\]
+  highlight: 0
+  year: 2024
+
+- title: "FreqMamba: Viewing Mamba from a Frequency Perspective for Image Deraining"
+  authors: Zhen Zou, Hu Yu, Jie Huang, Feng Zhao
+  venue: "ACM International Conference on Multimedia (ACM MM)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2024
+
 - title: "RodinHD: High-Fidelity 3D Avatar Generation with Diffusion Models"
   authors: Bowen Zhang, Yiji Cheng, Chunyu Wang, Ting Zhang, Jiaolong Yang, Yansong Tang, Feng Zhao, Dong Chen, Baining Guo.
   venue: "The 18th European Conference on Computer Vision (ECCV)"
