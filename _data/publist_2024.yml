@@ -1,3 +1,64 @@
+- title: "ShareGPT4Video: Improving Video Understanding and Generation with Better Captions"
+  authors: Lin Chen, Xilin Wei, Jinsong Li, .Xiaoyi Dong, Pan Zhang, Yuhang Zang, Zehui Chen, Haodong Duan, Bin Lin, Zhenyu Tang, Li, Yuan, Yu Qiao, Dahua Lin, Feng Zhao, Jiaqi Wang.
+  venue: "Thirty-eighth Annual Conference on Neural Information Processing Systems Datasets and Benchmarks Track
+ (NeurIPS D&B)"
+  link:
+    url: https://arxiv.org/abs/2406.04325v1
+    display: \[Paper\]
+  code:
+    url: https://github.com/ShareGPT4Omni/ShareGPT4Video
+    display: \[Code\]
+  highlight: 0
+  year: 2024
+
+
+- title: "Are We on the Right Way for Evaluating Large Vision-Language Models"
+  authors: Lin Chen, Jinsong Li, .Xiaoyi Dong, Pan Zhang, Yuhang Zang, Zehui Chen, Haodong Duan, Jiaqi Wang, Yu Qiao, Dahua Lin, Feng Zhao.
+  venue: "Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS)"
+  link:
+    url: https://arxiv.org/abs/2403.20330
+    display: \[Paper\]
+  code:
+    url: https://github.com/MMStar-Benchmark/MMStar
+    display: \[Code\]
+  highlight: 0
+  year: 2024
+
+- title: "GaussianCube: A Structured and Explicit Radiance Representation for 3D Generative Modeling"
+  authors: Bowen Zhang, Yiji Cheng, Jiaolong Yang, Chunyu Wang, Feng Zhao, Yansong Tang, Dong Chen, Baining Guo.
+  venue: "Thirty-eighth Annual Conference on Neural Information Processing Systems (NeurIPS)"
+  link:
+    url: https://arxiv.org/abs/2403.19655
+    display: \[Paper\]
+  code:
+    url: https://github.com/GaussianCube/GaussianCube
+    display: \[Code\]
+  highlight: 0
+  year: 2024
+
+- title: "DiffLoss: Unleashing Diffusion Model as Constraint for Training Image Restoration Network"
+  authors: Jiangtong Tan, Hu Yu, Jie Huang, Zizheng Yang,  Feng Zhao
+  venue: "The 17th Asian Conference on Computer Vision (ACCV)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  year: 2024
+
+- title: "PPTFormer: Pseudo Multi-Perspective Transformer for UAV Segmentation"
+  authors: Deyi Ji, Wenwei Jin, Hongtao Lu, Feng Zhao
+  venue: "International Joint Conference on Artificial Intelligence (IJCAI)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2024
+
 - title: "Rectifying Shortcut Learning through Cellular Differentiation in Deep Learning Neurons"
   authors: Hongjing Niu, Hanting Li, Guoping Wu, Bin Li, Feng Zhao
   venue: "The 35th British Machine Vision Conference (BMVC)"
