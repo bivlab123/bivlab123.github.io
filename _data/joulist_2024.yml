@@ -1,4 +1,15 @@
 
+- title: "Cleanness-Navigated-Contamination Network: A Unified Framework for Recovering Regional Degradation"
+  authors: Qianhao Yu, Naishan Zheng, Jie Huang, and Feng Zhao
+  venue: "Computer Vision and Image Understanding (CVIU)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2024
 
 - title: "Graph-DETR4D: Spatio-Temporal Graph Modeling for Multi-View 3D Object Detection"
   authors: Zehui Chen, Zheng Chen, Zhenyu Li, Shiquan Zhang, Liangji Fang, Qinhong Jiang, Feng Wu, Feng Zhao
