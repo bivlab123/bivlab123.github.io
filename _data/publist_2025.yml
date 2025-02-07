@@ -1,3 +1,26 @@
+- title: "MindSearch: Mimicking Human Minds Elicits Deep AI Searcher"
+
+  authors: Zehui Chen, Kuikun Liu, Qiuchen Wang, Jiangning Liu, Wenwei Zhang, Kai Chen, Feng Zhao
+
+  venue: "The Thirteenth International Conference on Learning Representations(ICLR)"
+
+  link:
+
+    url: 
+
+    display: \[Paper\]
+
+  code:
+
+    url: 
+
+    display: \[Code\]
+
+  highlight: 0
+
+  year: 2025
+  
+
 - title: "PseDet: Revisiting the Power of Pseudo Label in Incremental Object Detection"
 
   authors: Qiuchen Wang, Zehui Chen, Chenhongyi Yang, Jiaming Liu, Zhenyu Li, Feng Zhao
