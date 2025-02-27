@@ -1,3 +1,16 @@
+- title: "SPA-VL: A Comprehensive Safety Preference Alignment Dataset for Vision Language Models"
+  authors: Yongting Zhang, Lu Chen, Guodong Zheng, Yifeng Gao, Rui Zheng, Jinlan Fu, Zhenfei Yin, Senjie Jin, Yu Qiao, Xuanjing Huang, Feng Zhao, Tao Gui, Jing Shao
+  venue: "The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (CVPR)"
+  link: 
+    url: https://sqrtizhang.github.io/SPA-VL/
+    display: [Paper]
+  code: 
+      url: https://github.com/EchoseChen/SPA-VL-RLHF
+      display: [Code]
+  highlight: 0
+  year: 2025
+
+
 - title: "FreePCA: Integrating Consistency Information across Long-short Frames in Training-free Long Video Generation via Principal Component Analysis"
   authors: Jiangtong Tan, Hu Yu, Jie Huang, Jie Xiao, Feng Zhao
   venue: "The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (CVPR)"
