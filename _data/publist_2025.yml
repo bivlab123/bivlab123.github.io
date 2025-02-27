@@ -1,3 +1,37 @@
+- title: "FreePCA: Integrating Consistency Information across Long-short Frames in Training-free Long Video Generation via Principal Component Analysis"
+  authors: Jiangtong Tan, Hu Yu, Jie Huang, Jie Xiao, Feng Zhao
+  venue: "The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (CVPR)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2025
+- title: "Horizon-GS: Unified 3D Gaussian Splatting for Large-Scale Aerial-to-Ground Scenes"
+    
+  authors: Lihan Jiang*, Kerui Ren*, Mulin Yu, Linning Xu, Junting Dong, Tao Lu, Feng Zhao, Dahua Lin, Bo Dai
+    
+  venue: "The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (CVPR)"
+    
+  link:
+
+    url: https://arxiv.org/pdf/2412.01745
+
+    display: \[Paper\]
+    
+  code: 
+    
+    url: https://city-super.github.io/horizon-gs/
+    
+    display: \[Code\]
+    
+  highlight: 0
+    
+  year: 2025
+
+
 - title: "MindSearch: Mimicking Human Minds Elicits Deep AI Searcher"
 
   authors: Zehui Chen, Kuikun Liu, Qiuchen Wang, Jiangning Liu, Wenwei Zhang, Kai Chen, Feng Zhao
