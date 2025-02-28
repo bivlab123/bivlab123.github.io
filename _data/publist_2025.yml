@@ -1,3 +1,14 @@
+- title: "Navigating Image Restoration with VAR’s Distribution Alignment Prior"
+  authors: Siyang Wang, Naishan Zheng, Jie Huang, Feng Zhao
+  venue: "The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (CVPR)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2025
 - title: "Adaptive Dropout: Unleashing Dropout across Layers for Generalizable Image Super-Resolution"
   authors: Hang Xu, Jie Huang, Wei Yu, Jiangtong Tan, Zhen Zou, Feng Zhao
   venue: "The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (CVPR)"
