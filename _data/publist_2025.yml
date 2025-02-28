@@ -1,3 +1,14 @@
+- title: "Adaptive Dropout: Unleashing Dropout across Layers for Generalizable Image Super-Resolution"
+  authors: Hang Xu, Jie Huang, Wei Yu, Jiangtong Tan, Zhen Zou, Feng Zhao
+  venue: "The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (CVPR)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2025
 - title: "SPA-VL: A Comprehensive Safety Preference Alignment Dataset for Vision Language Models"
   authors: Yongting Zhang, Lu Chen, Guodong Zheng, Yifeng Gao, Rui Zheng, Jinlan Fu, Zhenfei Yin, Senjie Jin, Yu Qiao, Xuanjing Huang, Feng Zhao, Tao Gui, Jing Shao
   venue: "The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (CVPR)"
