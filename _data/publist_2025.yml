@@ -1,3 +1,14 @@
+- title: "SkySense-O: Towards Open-World Remote Sensing Interpretation with Vision-Centric Visual-Language Modeling"
+  authors: Qi Zhu, Jiangwei Lao, Deyi Ji, Junwei Luo, Kang Wu, Yingying Zhang, Lixiang Ru, Jian Wang, Jingdong Chen, Ming Yang, Dong Liu, Feng Zhao 
+  venue: "The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (CVPR)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2025
 - title: "Navigating Image Restoration with VAR’s Distribution Alignment Prior"
   authors: Siyang Wang, Naishan Zheng, Jie Huang, Feng Zhao
   venue: "The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (CVPR)"
