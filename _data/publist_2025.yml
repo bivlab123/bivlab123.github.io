@@ -1,3 +1,15 @@
+- title: "FreePCA: Integrating Consistency Information across Long-short Frames in Training-free Long Video Generation via Principal Component Analysis"
+  authors: Jiangtong Tan, Hu Yu, Jie Huang, Jie Xiao, Feng Zhao
+  venue: "The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (CVPR Highlight)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2025
+  
 - title: "SkySense-O: Towards Open-World Remote Sensing Interpretation with Vision-Centric Visual-Language Modeling"
   authors: Qi Zhu, Jiangwei Lao, Deyi Ji, Junwei Luo, Kang Wu, Yingying Zhang, Lixiang Ru, Jian Wang, Jingdong Chen, Ming Yang, Dong Liu, Feng Zhao 
   venue: "The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (CVPR)"
@@ -44,17 +56,7 @@
   year: 2025
 
 
-- title: "FreePCA: Integrating Consistency Information across Long-short Frames in Training-free Long Video Generation via Principal Component Analysis"
-  authors: Jiangtong Tan, Hu Yu, Jie Huang, Jie Xiao, Feng Zhao
-  venue: "The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (CVPR)"
-  link:
-    url: 
-    display: \[Paper\]
-  code:
-    url: 
-    display: \[Code\]
-  highlight: 0
-  year: 2025
+
 - title: "Horizon-GS: Unified 3D Gaussian Splatting for Large-Scale Aerial-to-Ground Scenes"
     
   authors: Lihan Jiang*, Kerui Ren*, Mulin Yu, Linning Xu, Junting Dong, Tao Lu, Feng Zhao, Dahua Lin, Bo Dai
