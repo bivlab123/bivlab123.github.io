@@ -1,5 +1,5 @@
 - title: "AB-Cache: Training-Free Acceleration of Diffusion Models via Adams-Bashforth Cached Feature Reuse"
-  authors: Zichao Yu*, Zhen Zou*, Guojiang Shao, Chenwei Zhang, Shengze Xu, Jie Huang, Feng Zhao, Xiaodong Cun, Wenyi Zhang
+  authors: Zichao Yu<sup>*</sup>, Zhen Zou<sup>*</sup>, Guojiang Shao, Chenwei Zhang, Shengze Xu, Jie Huang, Feng Zhao, Xiaodong Cun, Wenyi Zhang
   venue: "ACM International Conference on Multimedia 2025 (ACM MM)"
   link:
     url: 
