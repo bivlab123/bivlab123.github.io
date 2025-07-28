@@ -1,3 +1,15 @@
+- title: "AB-Cache: Training-Free Acceleration of Diffusion Models via Adams-Bashforth Cached Feature Reuse"
+  authors: Zichao Yu*, Zhen Zou*, Guojiang Shao, Chenwei Zhang, Shengze Xu, Jie Huang, Feng Zhao, Xiaodong Cun, Wenyi Zhang
+  venue: "ACM International Conference on Multimedia 2025 (ACM MM)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2025
+
 - title: "FreePCA: Integrating Consistency Information across Long-short Frames in Training-free Long Video Generation via Principal Component Analysis"
   authors: Jiangtong Tan, Hu Yu, Jie Huang, Jie Xiao, Feng Zhao
   venue: "The IEEE/CVF Conference on Computer Vision and Pattern Recognition 2025 (CVPR Highlight)"
