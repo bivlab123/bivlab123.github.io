@@ -1,3 +1,15 @@
+- title: "Gaussian Variation Field Diffusion for High-fidelity Video-to-4D Synthesis"
+  authors: Bowen Zhang, Sicheng Xu, Chuxin Wang, Jiaolong Yang, Feng Zhao, Dong Chen, Baining Guo
+  venue: "International Conference on Computer Vision 2025 (ICCV)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2025
+
 - title: "FreeDNA: Endowing Domain Adaptation of Diffusion-Based Dense Prediction with Training-Free Domain Noise Alignment"
   authors: Hang Xu, Jie Huang, Linjiang Huang, Dong Li, Yidi Liu, Feng Zhao
   venue: "International Conference on Computer Vision 2025 (ICCV)"
