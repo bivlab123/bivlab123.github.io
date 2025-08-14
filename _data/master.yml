@@ -22,11 +22,11 @@
   year: Joining Fall 2022
   info:
 
-- name: Yuhang Long
-  photo: yuhanglong.jpg
-  homepage: 
-  year: Joining Fall 2022
-  info:
+# - name: Yuhang Long
+#   photo: yuhanglong.jpg
+#   homepage: 
+#   year: Joining Fall 2022
+#   info:
 
 - name: Yongting Zhang
   photo: yongtingzhang.jpg
@@ -104,4 +104,10 @@
   photo: guohuizhang.jpg
   homepage: 
   year: Joining Fall 2024
+  info:
+
+- name: Zhen Fang
+  photo: zhenfang.jpg
+  homepage: https://costaliya.github.io/
+  year: Joining Fall 2025
   info:
