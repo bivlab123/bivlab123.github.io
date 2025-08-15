@@ -14,11 +14,11 @@
   year: Joining Fall 2019
   info:
 
-- name: Chunli Sun
-  photo: chunlisun.jpg
-  homepage: 
-  year: Joining Fall 2020
-  info: 
+# - name: Chunli Sun
+#   photo: chunlisun.jpg
+#   homepage: 
+#   year: Joining Fall 2020
+#   info: 
 
 - name: Hongjing Niu
   photo: hongjingniu.jpg
@@ -44,17 +44,17 @@
   year: Joining Fall 2020
   info:
 
-- name: Qi Zhu
-  photo: qizhu.jpg
-  homepage: 
-  year: Joining Fall 2020
-  info:
+# - name: Qi Zhu
+#   photo: qizhu.jpg
+#   homepage: 
+#   year: Joining Fall 2020
+#   info:
 
-- name: Deyi Ji
-  photo: deyiji.jpg
-  homepage: https://jankyee.github.io/
-  year: Joining Fall 2022
-  info:
+# - name: Deyi Ji
+#   photo: deyiji.jpg
+#   homepage: https://jankyee.github.io/
+#   year: Joining Fall 2022
+#   info:
 
 - name: Lihan Jiang
   photo: jianglihan.jpg
