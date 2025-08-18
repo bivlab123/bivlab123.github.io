@@ -4,6 +4,18 @@
   year: 2020-2025
   info: ByteDance Seed
 
+- name: Hanting Li
+  photo: hantingli.jpg
+  homepage: 
+  year: 2019-2025
+  info: HUAWEI (NOAH'S ARK LAB)
+
+- name: Hongjing Niu
+  photo: hongjingniu.jpg
+  homepage: 
+  year: 2019-2025
+  info: Tencent (Shanghai)
+
 - name: Zizheng Yang
   photo: zizhengyang.jpg
   homepage: 
@@ -45,7 +57,7 @@
   photo: bingli.jpg
   homepage: 
   year: 2022-2025
-  info:
+  info: CETC
 
 - name: Zheng Chen
   photo: zhengchen.jpg

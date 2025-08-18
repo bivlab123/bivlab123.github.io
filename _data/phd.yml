@@ -8,11 +8,11 @@
 #  education3:
 #  education4:
 
-- name: Hanting Li
-  photo: hantingli.jpg
-  homepage: 
-  year: Joining Fall 2019
-  info:
+# - name: Hanting Li
+#   photo: hantingli.jpg
+#   homepage: 
+#   year: Joining Fall 2019
+#   info:
 
 # - name: Chunli Sun
 #   photo: chunlisun.jpg
@@ -20,11 +20,11 @@
 #   year: Joining Fall 2020
 #   info: 
 
-- name: Hongjing Niu
-  photo: hongjingniu.jpg
-  homepage: 
-  year: Joining Fall 2019
-  info:
+# - name: Hongjing Niu
+#   photo: hongjingniu.jpg
+#   homepage: 
+#   year: Joining Fall 2019
+#   info:
   
 # - name: Zehui Chen
 #   photo: zehuichen.jpg
