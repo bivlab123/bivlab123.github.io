@@ -14,4 +14,4 @@ Positions for Master, Ph.D., and post-doc are opening. If you are interested in 
 
 Follow us on WeChat to receive up to the minute updates about BIVLab.
 <br>
-  <img src="http://localhost:4000/images/images/qrcode.jpg" alt="Join Us Image" style="width:20%; height:auto;">
+  <img src="http://localhost:4000/images/qrcode.jpg" alt="Join Us Image" style="width:20%; height:auto;">
