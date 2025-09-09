@@ -12,5 +12,6 @@ Our lab is looking forward to having elegant students or researchers to join us.
 Positions for Master, Ph.D., and post-doc are opening. If you are interested in our research and want to join us,
  please contact Prof. Zhao (fzhao956@ustc.edu.cn).
 
+Follow us on WeChat to receive up to the minute updates about BIVLab.
 <br>
-  <img src="{{ site.baseurl }}/images/qrcode.jpg" alt="Join Us Image" style="max-width:600px; height:auto;">
+  <img src="{{ site.baseurl }}/images/qrcode.jpg" alt="Join Us Image" style="max-width:200; height:auto;">
