@@ -13,3 +13,4 @@ Positions for Master, Ph.D., and post-doc are opening. If you are interested in 
  please contact Prof. Zhao (fzhao956@ustc.edu.cn).
 
 <br>
+<img src="qrcode.jpg" alt="Join Us Image" style="width:100%;max-width:600px;">
