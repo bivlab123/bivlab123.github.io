@@ -1,3 +1,16 @@
+- title: "AnySplat: Feed-forward 3D Gaussian Splatting from Unconstrained Views"
+    
+  authors: Lihan Jiang*, Yucheng Mao*, Linning Xu, Tao Lu, Kerui Ren, Yichen Jin, Xudong Xu, Mulin Yu, Jiangmiao Pang, Feng Zhao, Dahua Lin, Bo Dai
+    
+  venue: "ACM Transactions on Graphics (ACM TOG)"
+  link:
+    url: https://arxiv.org/pdf/2505.23716
+    display: \[Paper\]
+  code:
+    url: https://github.com/OpenRobotLab/AnySplat
+    display: \[Code\]
+  highlight: 0
+  year: 2025
 
 - title: "Structural and Statistical Texture Knowledge Distillation and Learning for Segmentation"
   authors: Deyi Ji, Feng Zhao, Hongtao Lu, Feng Wu, Jieping Ye
