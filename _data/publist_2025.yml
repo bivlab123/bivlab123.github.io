@@ -1,3 +1,15 @@
+- title: "InfoScale: Unleashing Training-free Variable-scaled Image Generation via Effective Utilization of Information"
+  authors: Guohui Zhang, Jiangtong Tan, Linjiang Huang, Zhonghang Yuan, Naishan Zheng, Jie Huang, Feng Zhao
+  venue: "The IEEE/CVF Winter Conference on Applications of Computer Vision 2026 (WACV)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2025
+
 - title: "SEA: Supervised Embedding Alignment for Token-Level Visual-Textual Integration in MLLMs"
   authors: Yuanyang Yin, Yaqi Zhao, Yajie Zhang, Yuanxing Zhang, Ke Lin, Jiahao Wang, Xin Tao, Pengfei Wan, Wentao Zhang, Feng Zhao
   venue: "The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP)"
