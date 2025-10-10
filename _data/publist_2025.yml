@@ -1,3 +1,42 @@
+
+- title: "VRAG-RL: Empower Vision-Perception-Based RAG for Visually Rich Information Understanding via Iterative Reasoning with Reinforcement Learning"
+  authors: Qiuchen Wang, Ruixue Ding, Yu Zeng, Zehui Chen, Lin Chen, Shihang Wang, Pengjun Xie, Fei Huang, Feng Zhao
+  venue: "The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025)"
+  link:
+    url: https://arxiv.org/pdf/2505.22019
+    display: \[Paper\]
+  code:
+    url: https://github.com/Alibaba-NLP/VRAG
+    display: \[Code\]
+  highlight: 0
+  year: 2025
+
+
+- title: "VideoMAR: Autoregressive Video Generation with Continuous Tokens"
+  authors: Hu Yu, Biao Gong, Hangjie Yuan, DanDan Zheng, Weilong Chai, Jingdong Chen, Kecheng Zheng, Feng Zhao
+  venue: "The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025)"
+  link:
+    url: https://www.arxiv.org/pdf/2506.14168
+    display: \[Paper\]
+  code:
+    url: https://yuhuustc.github.io//projects/VideoMAR.html
+    display: \[Code\]
+  highlight: 0
+  year: 2025
+
+
+- title: "Towards Better & Faster Autoregressive Image Generation: From the Perspective of Entropy"
+  authors: Xiaoxiao Ma, Feng Zhao, Pengyang Ling, Haibo Qiu, Zhixiang Wei, Hu Yu, Jie Huang, Zhixiong Zeng, Lin Ma
+  venue: "The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS 2025)"
+  link:
+    url: https://neurips.cc/virtual/2025/poster/118537
+    display: \[Paper\]
+  code:
+    url: https://github.com/krennic999/ARsample
+    display: \[Code\]
+  highlight: 0
+  year: 2025
+
 - title: "InfoScale: Unleashing Training-free Variable-scaled Image Generation via Effective Utilization of Information"
   authors: Guohui Zhang, Jiangtong Tan, Linjiang Huang, Zhonghang Yuan, Naishan Zheng, Jie Huang, Feng Zhao
   venue: "The IEEE/CVF Winter Conference on Applications of Computer Vision 2026 (WACV)"
