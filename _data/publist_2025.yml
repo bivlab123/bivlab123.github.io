@@ -1,3 +1,28 @@
+- title: "CronusVLA: Towards Efficient and Robust Manipulation via Multi-Frame Vision-Language-Action Modeling"
+  authors: Hao Li, Shuai Yang, Yilun Chen, Xinyi Chen, Xiaoda Yang, Yang Tian, Hanqing Wang, Tai Wang, Dahua Lin, Feng Zhao, Jiangmiao Pang
+  venue: "The 40th Annual AAAI Conference on Artificial Intelligence (AAAI, Oral)"
+  link:
+    url: https://arxiv.org/abs/2506.19816
+    display: \[Paper\]
+  code:
+    url: https://lihaohn.github.io/CronusVLA.github.io
+    display: \[Code\]
+  highlight: 0
+  year: 2025
+
+
+- title: "Token Painter: Training-Free Text-Guided Image Inpainting via Mask Autoregressive Models"
+  authors: Longtao Jiang, Jie Huang, Mingfei Han, Lei Chen, Yongqiang Yu, Feng Zhao, Xiaojun Chang, Zhihui Li
+ 
+  venue: "The 40th Annual AAAI Conference on Artificial Intelligence (AAAI)"
+  link:
+    url: https://arxiv.org/pdf/2509.23919
+    display: \[Paper\]
+  code:
+    url: https://github.com/longtaojiang/Token-Painter
+    display: \[Code\]
+  highlight: 0
+
 
 - title: "VRAG-RL: Empower Vision-Perception-Based RAG for Visually Rich Information Understanding via Iterative Reasoning with Reinforcement Learning"
   authors: Qiuchen Wang, Ruixue Ding, Yu Zeng, Zehui Chen, Lin Chen, Shihang Wang, Pengjun Xie, Fei Huang, Feng Zhao
