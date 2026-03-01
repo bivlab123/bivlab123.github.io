@@ -1,5 +1,5 @@
 - title: "Agentic Jigsaw Interaction Learning for Enhancing Visual Perception and Reasoning in Vision-Language Models"
-  authors: Yu Zeng*, Wenxuan Huang*, Shiting Huang*, Xikun Bao, Yukun Qi, Yiming Zhao, Qiuchen Wang, Lin Chen, Zehui Chen, Huaian Chen, Wanli Ouyang, Feng Zhao
+  authors: Yu Zeng<sup>*</sup>, Wenxuan Huang<sup>*</sup>, Shiting Huang<sup>*</sup>, Xikun Bao, Yukun Qi, Yiming Zhao, Qiuchen Wang, Lin Chen, Zehui Chen, Huaian Chen, Wanli Ouyang, Feng Zhao
   venue: "The Fourteenth International Conference on Learning Representations (ICLR)"
   link:
     url: https://arxiv.org/pdf/2510.01304
@@ -36,7 +36,7 @@
   year: 2026
 
 - title: "InstructVLA: Vision-Language-Action Instruction Tuning from Understanding to Manipulation"
-  authors: Shua Yang*, Hao Li*, Yilun Chen, Bin Wang, Yang Tian, Tai Wang, Hanqing Wang, Feng Zhao, Yiyi Liao, Jiangmiao Pang
+  authors: Shua Yang<sup>*</sup>, Hao Li<sup>*</sup>, Yilun Chen, Bin Wang, Yang Tian, Tai Wang, Hanqing Wang, Feng Zhao, Yiyi Liao, Jiangmiao Pang
   venue: "The Fourteenth International Conference on Learning Representations (ICLR)"
   link:
     url: https://arxiv.org/abs/2507.17520
