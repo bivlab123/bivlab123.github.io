@@ -1,0 +1,60 @@
+- title: "Agentic Jigsaw Interaction Learning for Enhancing Visual Perception and Reasoning in Vision-Language Models"
+  authors: Yu Zeng*, Wenxuan Huang*, Shiting Huang*, Xikun Bao, Yukun Qi, Yiming Zhao, Qiuchen Wang, Lin Chen, Zehui Chen, Huaian Chen, Wanli Ouyang, Feng Zhao
+  venue: "The Fourteenth International Conference on Learning Representations (ICLR)"
+  link:
+    url: https://arxiv.org/pdf/2510.01304
+    display: \[Paper\]
+  code:
+    url: https://github.com/yuzeng0-0/AGILE
+    display: \[Code\]
+  highlight: 0
+  year: 2025
+
+- title: "Group Critical-token Policy Optimization for Autoregressive Image Generation"
+  authors: Guohui Zhang, Hu Yu, Xiaoxiao Ma, JingHao Zhang, Yaning Pan, Mingde Yao, Jie Xiao, Linjiang Huang, Jie Huang, Feng Zhao
+  venue: "The Fourteenth International Conference on Learning Representations (ICLR)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2026
+
+
+- title: "V2P-Bench: Evaluating Video-Language Understanding with Visual Prompts for Better Human-Model Interaction"
+  authors: Yiming Zhao, Yu Zeng, Yukun Qi, YaoYang Liu, Xikun Bao, Lin Chen, Zehui Chen, Qing Miao, Chenxi Liu, Jie Zhao, Feng Zhao
+  venue: "The Fourteenth International Conference on Learning Representations (ICLR)"
+  link:
+    url: https://arxiv.org/abs/2503.17736v2
+    display: \[Paper\]
+  code:
+    url: https://github.com/gaotiexinqu/v2p-bench
+    display: \[Code\]
+  highlight: 0
+  year: 2026
+
+- title: "InstructVLA: Vision-Language-Action Instruction Tuning from Understanding to Manipulation"
+  authors: Shua Yang*, Hao Li*, Yilun Chen, Bin Wang, Yang Tian, Tai Wang, Hanqing Wang, Feng Zhao, Yiyi Liao, Jiangmiao Pang
+  venue: "The Fourteenth International Conference on Learning Representations (ICLR)"
+  link:
+    url: https://arxiv.org/abs/2507.17520
+    display: \[Paper\]
+  code:
+    url: https://yangs03.github.io/InstructVLA_Home
+    display: \[Code\]
+  highlight: 0
+  year: 2025
+
+- title: "RoboInter: A Holistic Intermediate Representation Suite Towards Robotic Manipulation"
+  authors: Hao Li, Ziqin Wang, Zi-han Ding, Shuai Yang, Yilun Chen, Yang Tian, Xiaolin Hu, Tai Wang, Dahua Lin, Feng Zhao, Si Liu, Jiangmiao Pang
+  venue: "The Fourteenth International Conference on Learning Representations (ICLR)"
+  link:
+    url: https://arxiv.org/abs/2602.09973
+    display: \[Paper\]
+  code:
+    url: https://lihaohn.github.io/RoboInter.github.io/
+    display: \[Code\]
+  highlight: 0
+  year: 2026
