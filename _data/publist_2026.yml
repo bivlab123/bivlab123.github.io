@@ -1,3 +1,14 @@
+- title: "FreeTailor: Tuning-Free Trajectory Control for Video Generation via Noise Customization"
+  authors: Guohui Zhang, Hu Yu, *Jiangtong Tan,* Jie Huang, Feng Zhao
+  venue: "The IEEE International Conference on Multimedia & Expo (ICME)"
+  link:
+  url:
+  display: \[Paper\]
+  code:
+  url:
+  display: \[Code\]
+  highlight: 0
+  year: 2026
 - title: "ParaUni: Enhance Generation in Unified Multimodal Model with Reinforcement-driven Hierarchical Parallel Information Interaction"
   authors: Jiangtong Tan, Lin Liu, Jie Huang, Xiaopeng Zhang, Qi Tian, Feng Zhao
   venue: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)"
@@ -10,7 +21,7 @@
   year: 2026
 - title: "MaskFocus: Focusing Policy Optimization on Critical Steps for Masked Image Generation"
   authors: Guohui Zhang, Hu Yu, Xiaoxiao Ma, Yaning Pan, Hang Xu, Jie Huang, Feng Zhao
-  venue: "Conference on Computer Vision and Pattern Recognition 2026 (CVPR)"
+  venue: "IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)"
   link:
   url:
   display: \[Paper\]
