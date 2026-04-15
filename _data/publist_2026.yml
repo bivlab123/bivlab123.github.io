@@ -1,3 +1,45 @@
+- title: "Beyond Accuracy: Unveiling Inefficiency Patterns in Tool-Integrated Reasoning"
+  authors: Qisheng Su, Shiting Huang, Zhen Fang, Ziyan Chen, Zehui Chen, Feng Zhao
+  venue: "The 64th Annual Meeting of the Association for Computational Linguistics (ACL Main)"
+  link:
+    url: https://arxiv.org/abs/2604.05404v1
+    display: [Paper]
+  code:
+    url: https://github.com/sqs-ustc/tool-reasoning-framework-PTE
+    display: [Code]
+  highlight: 0
+  year: 2026
+
+
+- title: "Breaking Block Boundaries: Anchor-based History-stable Decoding for Diffusion Large Language Models"
+  authors: Shun Zou, Yong Wang, Zehui Chen, Lin Chen, Chongyang Tao, Feng Zhao, Xiangxiang Chu
+  venue: "The 64th Annual Meeting of the Association for Computational Linguistics (ACL Main)"
+  link:
+    url: https://arxiv.org/abs/2604.08964
+    display: "[Paper]"
+  code:
+    url: https://github.com/zs1314/AHD
+    display: "[Code]"
+  highlight: 0
+  year: 2026
+
+
+- title: "Tracing the Roots: A Multi-Agent Framework for Uncovering Data Lineage in Post-Training LLMs"
+  authors: Yu Li, Xiaoran Shang, Qizhi Pei, Yun Zhu, Xin Gao, Honglin Lin, Zhanping Zhong, Zhuoshi Pan, Zheng Liu, Xiaoyang Wang, Conghui He, Dahua Lin, Feng Zhao<sup>*</sup>, Lijun Wu<sup>*</sup>
+  venue: "The 64th Annual Meeting of the Association for Computational Linguistics (ACL Main)"
+  link:
+    url:
+    display: "[Paper]"
+  code:
+    url: https://arena.opendatalab.org.cn/data-lineage/website/index.html
+    display: "[Code]"
+  year: 2026
+
+
+
+
+
+
 - title: "FreeTailor: Tuning-Free Trajectory Control for Video Generation via Noise Customization"
   authors: Guohui Zhang, Hu Yu, *Jiangtong Tan,* Jie Huang, Feng Zhao
   venue: "The IEEE International Conference on Multimedia & Expo (ICME)"
