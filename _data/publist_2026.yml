@@ -1,3 +1,16 @@
+- title: "UniCorn: Towards Self-Improving Unified Multimodal Models through Self-Generated Supervision"
+  authors: Zhen Fang<sup>*</sup>,Ruiyan Han<sup>*</sup>,  XinYu Sun<sup>*</sup>, Yuchen Ma, Ziheng Wang, Yu Zeng, Zehui Chen, Lin Chen, Wenxuan Huang, Wei-Jie Xu, Yi Cao, Feng Zhao
+  venue: "The 64th Annual Meeting of the Association for Computational Linguistics (ACL Main)"
+  link:
+    url: https://arxiv.org/abs/2601.03193
+    display: [Paper]
+  code:
+    url: https://github.com/Hungryyan1/UniCorn
+    display: [Code]
+  highlight: 0
+  year: 2026
+
+
 - title: "Beyond Accuracy: Unveiling Inefficiency Patterns in Tool-Integrated Reasoning"
   authors: Qisheng Su, Shiting Huang, Zhen Fang, Ziyan Chen, Zehui Chen, Feng Zhao
   venue: "The 64th Annual Meeting of the Association for Computational Linguistics (ACL Main)"
