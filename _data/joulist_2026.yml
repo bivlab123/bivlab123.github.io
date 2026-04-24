@@ -1,1 +1,11 @@
-
+- title: "SynBoost: A Synergistic Framework for Fast Sampling of Diffusion Models"
+  authors: Hu Yu, Hao Luo, Xueyang Fu, Jie Huang, Fan Wang, Feng Zhao
+  venue: "IEEE Transactions on Multimedia (TMM)"
+  link:
+    url:
+    display: \[Paper\]
+  code:
+    url:
+    display: \[Code\]
+  highlight: 0
+  year: 2026
