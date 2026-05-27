@@ -9,3 +9,16 @@
     display: \[Code\]
   highlight: 0
   year: 2026
+
+
+- title: "View-Centric Multiobject Tracking With Homographic Matching in Moving UAV"
+  authors: Deyi Ji, Lanyun Zhu, Siqi Gao, Qi Zhu, Yiru Zhao, Peng Xu, Yue Ding, Hongtao Lu, Jieping Ye, Feng Wu, Feng Zhao
+  venue: "IEEE Transactions on Geoscience and Remote Sensing (TGRS)"
+  link:
+    url: 
+    display: [Paper]
+  code:
+    url: 
+    display: [Code]
+  highlight: 0
+  year: 2026
