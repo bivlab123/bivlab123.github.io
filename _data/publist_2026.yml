@@ -1,3 +1,27 @@
+- title: "Vision-DeepResearch: Incentivizing DeepResearch Capability in Multimodal Large Language Models"
+  authors: "Wenxuan Huang, Yu Zeng, Qiuchen Wang, Zhen Fang, Shaosheng Cao, Zheng Chu, Qingyu Yin, Shuang Chen, Zhenfei Yin, Lin Chen, Zehui Chen, Xu Tang, Yao Hu, Shaohui Lin, Philip Torr, Feng Zhao, Wanli Ouyang"
+  venue: "International Conference on Machine Learning (ICML 2026)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2026
+  
+- title: "Unbiased Principles, Robust Rewards"
+  authors: Qingnan Ren, Zhen Fang, Shiting Huang, Yu Zeng, Zehui Chen, Lin Chen, Feng Zhao
+  venue: "International Conference on Machine Learning (ICML 2026)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: https://github.com/ShadeCloak/IP-GRM
+    display: \[Code\]
+  highlight: 0
+  year: 2026
+
 - title: "UniCorn: Towards Self-Improving Unified Multimodal Models through Self-Generated Supervision"
   authors: Zhen Fang<sup>*</sup>,Ruiyan Han<sup>*</sup>,  XinYu Sun<sup>*</sup>, Yuchen Ma, Ziheng Wang, Yu Zeng, Zehui Chen, Lin Chen, Wenxuan Huang, Wei-Jie Xu, Yi Cao, Feng Zhao
   venue: "The 64th Annual Meeting of the Association for Computational Linguistics (ACL Main)"
