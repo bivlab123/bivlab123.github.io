@@ -1,3 +1,28 @@
+- title: "InfoScale: Unleashing Training-free Variable-scaled Image Generation via Effective Utilization of Information"
+  authors: Guohui Zhang, Jiangtong Tan, Linjiang Huang, Zhonghang Yuan, Mingde Yao, Jie Huang, Feng Zhao
+  venue: "Transactions on Machine Learning Research (TMLR)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2026
+
+- title: "Autoregressive Image Generation with Frequency Progression"
+  authors: Hu Yu, Hao Luo, Hangjie Yuan, Yu Rong, Jie Huang, Feng Zhao
+  venue: "Transactions on Machine Learning Research (TMLR)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2026
+
+
 - title: "SynBoost: A Synergistic Framework for Fast Sampling of Diffusion Models"
   authors: Hu Yu, Hao Luo, Xueyang Fu, Jie Huang, Fan Wang, Feng Zhao
   venue: "IEEE Transactions on Multimedia (TMM)"
