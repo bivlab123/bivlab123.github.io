@@ -1,3 +1,15 @@
+- title: "Drift-AR: Single-Step Visual Autoregressive Generation via Anti-Symmetric Drifting"
+  authors: Zhen Zou, Xiaoxiao Ma, Mingde Yao, Jie Huang, Linjiang Huang, Feng Zhao
+  venue: "European Conference on Computer Vision (ECCV 2026)"
+  link:
+    url:
+    display: \[Paper\]
+  code:
+    url: https://github.com/aSleepyTree/Drift-AR
+    display: \[Code\]
+  highlight: 0
+  year: 2026
+    
 - title: "Vision-DeepResearch: Incentivizing DeepResearch Capability in Multimodal Large Language Models"
   authors: "Wenxuan Huang, Yu Zeng, Qiuchen Wang, Zhen Fang, Shaosheng Cao, Zheng Chu, Qingyu Yin, Shuang Chen, Zhenfei Yin, Lin Chen, Zehui Chen, Xu Tang, Yao Hu, Shaohui Lin, Philip Torr, Feng Zhao, Wanli Ouyang"
   venue: "International Conference on Machine Learning (ICML 2026)"
