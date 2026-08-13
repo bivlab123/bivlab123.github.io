@@ -1,3 +1,15 @@
+- title: "RadAR: Accelerating Autoregressive Visual Generation with Radial Decoding"
+  authors: Siyang Wang, Hanting Li, Wei Li, Jie Hu, Xinghao Chen, Jie Huang, Feng Zhao
+  venue: "ACM International Conference on Multimedia 2026 (ACM MM)"
+  link:
+    url: 
+    display: \[Paper\]
+  code:
+    url: 
+    display: \[Code\]
+  highlight: 0
+  year: 2026
+
 - title: "Drift-AR: Single-Step Visual Autoregressive Generation via Anti-Symmetric Drifting"
   authors: Zhen Zou, Xiaoxiao Ma, Mingde Yao, Jie Huang, Linjiang Huang, Feng Zhao
   venue: "European Conference on Computer Vision (ECCV 2026，Oral)"
