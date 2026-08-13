@@ -32,11 +32,11 @@
 #   year: Joining Fall 2020
 #   info:
 
-- name: Naishan Zheng
-  photo: naishanzheng.jpg
-  homepage: https://nszheng.site
-  year: Joining Fall 2020
-  info:
+# - name: Naishan Zheng
+#   photo: naishanzheng.jpg
+#   homepage: https://nszheng.site
+#   year: Joining Fall 2020
+#   info:
 
 # - name: Zizheng Yang
 #   photo: zizhengyang.jpg
@@ -62,11 +62,11 @@
   year: Joining Fall 2023
   info:
 
-- name: Hu Yu
-  photo: huyu.jpg
-  homepage: https://yuhuustc.github.io/
-  year: Joining Fall 2021
-  info:
+# - name: Hu Yu
+#   photo: huyu.jpg
+#   homepage: https://yuhuustc.github.io/
+#   year: Joining Fall 2021
+#   info:
 
 - name: Jinghao Zhang
   photo: jinghaozhang.jpg
@@ -74,11 +74,11 @@
   year: Joining Fall 2021
   info:
 
-- name: Lin Chen
-  photo: linchen.png
-  homepage: https://lin-chen.site
-  year: Joining Fall 2023
-  info:
+# - name: Lin Chen
+#   photo: linchen.png
+#   homepage: https://lin-chen.site
+#   year: Joining Fall 2023
+#   info:
 
 - name: Yuanyang Yin
   photo: yuanyangyin.jpg

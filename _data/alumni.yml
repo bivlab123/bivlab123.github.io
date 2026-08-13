@@ -1,3 +1,57 @@
+- name: Naishan Zheng
+  photo: naishanzheng.jpg
+  homepage: https://nszheng.site
+  year: 2020-2026
+  info: ByteDance (Jindouyun)
+
+- name: Hu Yu
+  photo: huyu.jpg
+  homepage: https://yuhuustc.github.io/
+  year: 2021-2026
+  info: JD Explore Academy (TGT)
+
+- name: Lin Chen
+  photo: linchen.png
+  homepage: https://lin-chen.site
+  year: 2023-2026
+  info: ByteDance (Seed)
+
+- name: Bowen Zhang
+  photo: grad_student.png
+  homepage:
+  year: 2023-2026
+  info: Meta
+
+- name: Yukun Qi
+  photo: yukunqi.jpg
+  homepage:
+  year: 2023-2026
+  info: HUAWEI
+
+- name: Qiuchen Wang
+  photo: qiuchenwang.jpg
+  homepage:
+  year: 2023-2026
+  info: NTU
+
+- name: Siyang Wang
+  photo: siyangwang.jpg
+  homepage:
+  year: 2023-2026
+  info: ByteDance
+
+- name: Zhen Zou
+  photo: zhenzou.jpg
+  homepage:
+  year: 2023-2026
+  info: ByteDance
+
+- name: Jiangtong Tan
+  photo: jiangtongtan.jpg
+  homepage:
+  year: 2023-2026
+  info: HUAWEI (Innovation AI Lab, Level 16)
+
 - name: Zehui Chen
   photo: zehuichen.jpg
   homepage: https://lovesnowbest.site
