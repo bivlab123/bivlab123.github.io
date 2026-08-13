@@ -9,7 +9,18 @@
     display: \[Code\]
   highlight: 0
   year: 2026
-
+- title: "MAR-GRPO: Stabilized GRPO for AR-diffusion Hybrid Image Generation"
+  authors: Xiaoxiao Ma, Jiachen Lei, Tianfei Ren, Jie Huang, Siming Fu, Aiming Hao, Jiahong Wu, Xiangxiang Chu, Feng Zhao
+  venue: "ACM International Conference on Multimedia 2026 (ACM MM)"
+  link:
+    url: https://doi.org/10.1145/3767308.3835275
+    display: \[Paper\]
+  code:
+    url:
+    display: \[Code\]
+  highlight: 0
+  year: 2026
+  
 - title: "Drift-AR: Single-Step Visual Autoregressive Generation via Anti-Symmetric Drifting"
   authors: Zhen Zou, Xiaoxiao Ma, Mingde Yao, Jie Huang, Linjiang Huang, Feng Zhao
   venue: "European Conference on Computer Vision (ECCV 2026，Oral)"
