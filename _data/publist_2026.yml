@@ -1,3 +1,51 @@
+- title: "ADORA: Training Reasoning Models with Dynamic Advantage Estimation on Reinforcement Learning"
+  authors: Qingnan Ren<sup>*</sup>, Shiting Huang<sup>*</sup>, Zhen Fang<sup>*</sup>, Lin Chen, Zehui Chen, Lijun Li, Feng Zhao
+  venue: "Main Conference of the Association for Computational Linguistics: EMNLP 2026"
+  link:
+    url: https://arxiv.org/abs/2602.10019
+    display: \[Paper\]
+  code:
+    url: https://github.com/ShadeCloak/ADORA
+    display: \[Code\]
+  highlight: 0
+  year: 2026
+
+- title: "AsyncTool: Evaluating the Asynchronous Function Calling Capability under Multi-Task Scenarios"
+  authors: Kou Shi<sup>*</sup>, Ziao Zhang<sup>*</sup>, Shiting Huang, Avery Nie, Zhen Fang, Qiuchen Wang, Lin Chen, Huaian Chen, Zehui Chen, Feng Zhao
+  venue: "Findings of the Association for Computational Linguistics: EMNLP 2026"
+  link:
+    url: https://arxiv.org/abs/2605.27995
+    display: \[Paper\]
+  code:
+    url: https://github.com/StoKou/repo-asynctool
+    display: \[Code\]
+  highlight: 0
+  year: 2026
+
+- title: "Internalizing Meta-Experience into Memory for Guided Reinforcement Learning in Large Language Models"
+  authors: Shiting Huang, Zecheng Li, Yu Zeng, Qingnan Ren, Zhen Fang, Qisheng Su, Kou Shi, Ziao Zhang, Lin Chen, Zehui Chen, Feng Zhao
+  venue: "Findings of the Association for Computational Linguistics: EMNLP 2026"
+  link:
+    url: https://arxiv.org/abs/2602.10224
+    display: \[Paper\]
+  code:
+    url:
+    display: \[Code\]
+  highlight: 0
+  year: 2026
+
+- title: "Video-DeepResearch: Towards the Next-Generation Multimodal Deepresearch Agent"
+  authors: Zhen Fang<sup>*</sup>, Yu Zeng<sup>*</sup>, Wenxuan Huang<sup>*</sup>, Yiming Zhao<sup>*</sup>, Shiting Huang, Tianfei Ren, Qi Lu, Qingnan Ren, Qisheng Su, Lionel Z. WANG, Qingyu Yin, Shuang Chen, Zehui Chen, Lin Chen, Zhenfei Yin, Yao Hu, Shaohui Lin, Wanli Ouyang, Shaosheng Cao, Feng Zhao
+  venue: "Findings of the Association for Computational Linguistics: EMNLP 2026"
+  link:
+    url: https://arxiv.org/abs/2608.03979
+    display: \[Paper\]
+  code:
+    url: https://github.com/Osilly/Vision-DeepResearch/tree/main/Video-DeepResearch
+    display: \[Code\]
+  highlight: 0
+  year: 2026
+
 - title: "RadAR: Accelerating Autoregressive Visual Generation with Radial Decoding"
   authors: Siyang Wang, Hanting Li, Wei Li, Jie Hu, Xinghao Chen, Jie Huang, Feng Zhao
   venue: "ACM International Conference on Multimedia 2026 (ACM MM)"
