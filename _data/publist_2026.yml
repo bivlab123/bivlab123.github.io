@@ -1,3 +1,15 @@
+- title: "Not only where, But when: Temporal Scheduling for RLVR"
+  authors: Jinghao Zhang, Ruilin Li, Feng Zhao, Jiaqi Wang
+  venue: "The 40th Conference on Neural Information Processing Systems (NeurIPS, 2026)"
+  link:
+    url: https://arxiv.org/abs/2605.25381
+    display: \[Paper\]
+  code:
+    url: https://github.com/Jinghaoleven/RLVR-Schedule
+    display: \[Code\]
+  highlight: 0
+  year: 2026
+
 - title: "ADORA: Training Reasoning Models with Dynamic Advantage Estimation on Reinforcement Learning"
   authors: Qingnan Ren<sup>*</sup>, Shiting Huang<sup>*</sup>, Zhen Fang<sup>*</sup>, Lin Chen, Zehui Chen, Lijun Li, Feng Zhao
   venue: "Main Conference of the Association for Computational Linguistics: EMNLP 2026"
